@@ -1,0 +1,564 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-B077EA633FFBFD29:p0053",
+  "documentId": "PB-B077EA633FFBFD29",
+  "pdfPage": 53,
+  "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+  "rawTextSha256": "c8035bfc88cccf3f003a119eccfc3a6d2bf908e9e53ceed9af9e8272a12626ad",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": null,
+      "basis": "Inget tryckt sidnummer synligt; ingen numrering antagen"
+    }
+  ],
+  "notes": [
+    "Nytt häfte med egen sidnumrering; inget tryckt sidnummer syns på denna sida. Not 1 fortsätter utanför urvalet."
+  ],
+  "revision": 2,
+  "parentRevision": 1,
+  "status": "proofread",
+  "segments": [
+    "BACCHI GIFTERMÅL.\nTal, hållet i P. B. den 5 December 1802 af Johan David Valerius. 1)\n\nÄn lite rim och sedan slut;\nMan satt mig hit, det måste ni förlåta,\nAtt torrt predika om det våta,\nJag talt så ofta, att jag borde ha talt ut.\nErt öra vare likväl tåligt!\nAllt hvad man gör af skyldighet\nGår merendels så trögt och dåligt\nHvar äkta man bland er det vet.\nJa, den får tala dumt, som talar för att tala,\nMen han får vara kort och tiden ej förhala\nHeldst der man väntar på en bål;\nSå hören några ord om Bacchi giftermål.\n\nVar Bacchus kär — han, som blott kunde dricka,\nHan kunde älska? Nej, min vän.\nHur illa han förliks med kärleken\nDet vittna mången gång vår Doctor och vår flicka.\nHan kunde giftas blott, som andre store män,\nOch välja och förskjuta brudar;\nTy himlens, liksom jordens gudar,\nHa rätt att gifta sig helt kallt,\nAf faderskänslan för sitt rike,"
+  ],
+  "passages": [
+    {
+      "id": "E-H53-VALERIUS",
+      "text": "Tal, hållet i P. B. den 5 December 1802 af Johan David Valerius.",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H53-BACCHI",
+      "text": "BACCHI GIFTERMÅL.",
+      "reviewStatus": "checked-against-image"
+    }
+  ],
+  "unresolved": [],
+  "changeReason": "Tryckt löptext och noter transkriberade och jämförda med sidbilden; äldre stavning bevarad",
+  "textSha256": "2825d05de63c887abae0faa0edc6a99ba513bd7038861711c947c04dddc89844",
+  "changes": [
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        0,
+        7
+      ],
+      "editedWordRange": [
+        0,
+        4
+      ],
+      "before": "• • o BACCRI GIFTERMAL. TaJ, bflllct",
+      "after": "BACCHI GIFTERMÅL. Tal, hållet"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        8,
+        12
+      ],
+      "editedWordRange": [
+        5,
+        9
+      ],
+      "before": "1'. 8. dcn å",
+      "after": "P. B. den 5"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        13,
+        22
+      ],
+      "editedWordRange": [
+        10,
+        17
+      ],
+      "before": "J802 ar Juban Da,1d ' ·nJerins. I) .. All",
+      "after": "1802 af Johan David Valerius. 1) Än"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        25,
+        26
+      ],
+      "editedWordRange": [
+        20,
+        21
+      ],
+      "before": "scdan",
+      "after": "sedan"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        27,
+        29
+      ],
+      "editedWordRange": [
+        22,
+        24
+      ],
+      "before": "Mau salt",
+      "after": "Man satt"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        31,
+        32
+      ],
+      "editedWordRange": [
+        26,
+        27
+      ],
+      "before": "del",
+      "after": "det"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        33,
+        35
+      ],
+      "editedWordRange": [
+        28,
+        30
+      ],
+      "before": "ui (Orlålll,",
+      "after": "ni förlåta,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        37,
+        38
+      ],
+      "editedWordRange": [
+        32,
+        33
+      ],
+      "before": "predil<a",
+      "after": "predika"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        40,
+        42
+      ],
+      "editedWordRange": [
+        35,
+        36
+      ],
+      "before": "\\·lIla, ,",
+      "after": "våta,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        43,
+        45
+      ],
+      "editedWordRange": [
+        37,
+        39
+      ],
+      "before": "(all s3",
+      "after": "talt så"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        46,
+        48
+      ],
+      "editedWordRange": [
+        40,
+        42
+      ],
+      "before": "1111 ja~",
+      "after": "att jag"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        49,
+        50
+      ],
+      "editedWordRange": [
+        43,
+        44
+      ],
+      "before": "h1l",
+      "after": "ha"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        56,
+        59
+      ],
+      "editedWordRange": [
+        50,
+        51
+      ],
+      "before": "tll ligt! •",
+      "after": "tåligt!"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        61,
+        63
+      ],
+      "editedWordRange": [
+        53,
+        55
+      ],
+      "before": "IDan göl'",
+      "after": "man gör"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        64,
+        65
+      ],
+      "editedWordRange": [
+        56,
+        57
+      ],
+      "before": "sl<yldighet",
+      "after": "skyldighet"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        73,
+        76
+      ],
+      "editedWordRange": [
+        65,
+        68
+      ],
+      "before": "IDan blaDd cr",
+      "after": "man bland er"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        80,
+        81
+      ],
+      "editedWordRange": [
+        72,
+        73
+      ],
+      "before": "rllr",
+      "after": "får"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        82,
+        83
+      ],
+      "editedWordRange": [
+        74,
+        75
+      ],
+      "before": "dUlDt,",
+      "after": "dumt,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        84,
+        87
+      ],
+      "editedWordRange": [
+        76,
+        79
+      ],
+      "before": "lalilr föl' alt",
+      "after": "talar för att"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        88,
+        91
+      ],
+      "editedWordRange": [
+        80,
+        83
+      ],
+      "before": "~Ien bau rår",
+      "after": "Men han får"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        92,
+        93
+      ],
+      "editedWordRange": [
+        84,
+        85
+      ],
+      "before": "korrt",
+      "after": "kort"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        97,
+        99
+      ],
+      "editedWordRange": [
+        89,
+        90
+      ],
+      "before": "lIeld st",
+      "after": "Heldst"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        100,
+        101
+      ],
+      "editedWordRange": [
+        91,
+        92
+      ],
+      "before": "mall",
+      "after": "man"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        104,
+        109
+      ],
+      "editedWordRange": [
+        95,
+        99
+      ],
+      "before": "bll l; sä börelI nägra",
+      "after": "bål; Så hören några"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        111,
+        114
+      ],
+      "editedWordRange": [
+        101,
+        103
+      ],
+      "before": "Baccbi gifterm fll.",
+      "after": "Bacchi giftermål."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        115,
+        119
+      ],
+      "editedWordRange": [
+        104,
+        108
+      ],
+      "before": "Bacchns käl' - hao,",
+      "after": "Bacchus kär — han,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        121,
+        128
+      ],
+      "editedWordRange": [
+        110,
+        115
+      ],
+      "before": "1<IIIIde dricJ<a, lian Imude äl sl<a 1",
+      "after": "kunde dricka, Han kunde älska?"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        130,
+        132
+      ],
+      "editedWordRange": [
+        117,
+        119
+      ],
+      "before": "viin. IInr",
+      "after": "vän. Hur"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        134,
+        136
+      ],
+      "editedWordRange": [
+        121,
+        122
+      ],
+      "before": "förlil, s",
+      "after": "förliks"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        137,
+        140
+      ],
+      "editedWordRange": [
+        123,
+        124
+      ],
+      "before": "I, ädel, co",
+      "after": "kärleken"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        141,
+        144
+      ],
+      "editedWordRange": [
+        125,
+        127
+      ],
+      "before": "vIttlla mllnge n",
+      "after": "vittna mången"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        147,
+        151
+      ],
+      "editedWordRange": [
+        130,
+        134
+      ],
+      "before": "oe\" vål' lIiel,a. lIan",
+      "after": "och vår flicka. Han"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        154,
+        155
+      ],
+      "editedWordRange": [
+        137,
+        138
+      ],
+      "before": "SOIlJ",
+      "after": "som"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        157,
+        165
+      ],
+      "editedWordRange": [
+        140,
+        146
+      ],
+      "before": "miiII , Ocb v,ilja oeb fÖrskjuta brudar ;",
+      "after": "män, Och välja och förskjuta brudar;"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        166,
+        168
+      ],
+      "editedWordRange": [
+        147,
+        148
+      ],
+      "before": "himl ens,",
+      "after": "himlens,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        169,
+        173
+      ],
+      "editedWordRange": [
+        149,
+        153
+      ],
+      "before": "jordeus glldar, Ila r,iU",
+      "after": "jordens gudar, Ha rätt"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        174,
+        175
+      ],
+      "editedWordRange": [
+        154,
+        155
+      ],
+      "before": "gifla",
+      "after": "gifta"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        176,
+        179
+      ],
+      "editedWordRange": [
+        156,
+        158
+      ],
+      "before": "hell I<allt ,",
+      "after": "helt kallt,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        180,
+        185
+      ],
+      "editedWordRange": [
+        159,
+        161
+      ],
+      "before": "fad crs käll slan !'ör",
+      "after": "faderskänslan för"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        186,
+        189
+      ],
+      "editedWordRange": [
+        162,
+        163
+      ],
+      "before": "ril<e, - ••",
+      "after": "rike,"
+    }
+  ]
+}

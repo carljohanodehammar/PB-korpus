@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-2AA72AC4BCC169AA:p0005",
+  "documentId": "PB-2AA72AC4BCC169AA",
+  "pdfPage": 5,
+  "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+  "rawTextSha256": "a897376c24d6f3d811ab2799722bf1fc02a404f62b7c32bd8c8c7172b5965f91",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": null,
+      "basis": "Inget tryckt sidnummer synligt; ingen numrering antagen"
+    },
+    {
+      "segment": 1,
+      "printedPage": null,
+      "basis": "Inget tryckt sidnummer synligt; ingen numrering antagen"
+    }
+  ],
+  "notes": [],
+  "revision": 1,
+  "parentRevision": null,
+  "status": "selected",
+  "segments": [],
+  "passages": [],
+  "unresolved": [],
+  "changeReason": "Registrerat i första granskningsurvalet",
+  "changes": []
+}

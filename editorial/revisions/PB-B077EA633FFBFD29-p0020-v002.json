@@ -1,0 +1,865 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-B077EA633FFBFD29:p0020",
+  "documentId": "PB-B077EA633FFBFD29",
+  "pdfPage": 20,
+  "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+  "rawTextSha256": "50bc12c92d06d75b5bec857cf867f2096bbde4de5c1d0f75b5643c26c9a36d42",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [
+    "32",
+    "33"
+  ],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": "32",
+      "basis": "Synlig sidnumrering i sidbild"
+    },
+    {
+      "segment": 1,
+      "printedPage": "33",
+      "basis": "Synlig sidnumrering i sidbild"
+    }
+  ],
+  "notes": [
+    "Talets inledning saknar inledande citattecken i trycket men har ett avslutande citattecken på sidan 33. Detta bevaras.",
+    "Not 1 fortsätter utanför urvalet."
+  ],
+  "revision": 2,
+  "parentRevision": 1,
+  "status": "proofread",
+  "segments": [
+    "32\nTAL\npå Barbara-dagen, den 4 December 1784, hållet på Claës på hörnet af Cornetten Arvid Adrian Stjernecrantz.\n\nFöraktliga flock, som kryper på ett af de mindsta bland de myriader klot som hvimla i den ogränseliga rymden! Du, som under namn af menniska bröstar dig af en höghet, den ditt eget uppförande förnekar! Du, som danad att njuta nöjet i sin förtjusning och sanningen i sin renhet, stundeligen använder din omsorg endast att smärtas och förvillas! Du, som borde andas din egen sällhet i din grannes väl, i din väns trefnad, men fröjdas vid hans fall och segrar, då du trampar honom på hjessan. Du, som fått ett hjerta, för att öma, och ett sköte för att omarma och skydda den olycklige, men förhärdar din själ till en klippa och fördubblar den betrycktes börda med ditt stolta förakt, endast derföre, att du ännu icke varit i lika belägenhet! Du kräfver, att allt skall vara till din tjenst och anser den obetydligaste handräckning du sjelf gör som det utmärktaste ädelmod! Du, som ej känner något lagom, åtminstone intet öfverflöd för de behof dårskapen, vällusten och tusen nycker måla för ditt lystna öga, då du anser den uslaste lott mer än tillräckelig för din torftige like! Du, som skryter af vishet och styrka, men behöfver ej mer än några blickar af två vackra ögon, för att blifva en fullkomlig dåre. Du, som är skapad för naturen, der förställning och bojor äro de första, som emottaga dig! Föraktliga flock! bör",
+    "33\nman undra att floder dränka dig och brinnande afgrunder öppna sina svalg under dina dårskaper och omenskligheter? Må heldre mitt slägte sluta här, der det skulle återbörja, än min efterverld skulle likna min forn- och samtid.»\n\nDe bedröfliga vedermälen af den allmänna floden, som en dag mera lifligt föllo Noak i ögonen, aftvungo honom dessa förbittrade, fast tyvärr! riktiga betraktelser. Fördjupad i sin nitälskan mot detta usla slägte hade han ännu fortsatt sina filosofiska granskningar, om ej en vacker röst afbrutit dem genom denna af oss kända muntran:\n\n»Kom, kära granne, sätt dig ner\nOch tag ditt glas och pipa\nKom, låt oss nästra allt som sker\nFast vi det ej begripa» 1).\n\nVäckt, likasom ur en dvala, stadnade han och med en häpen förundran betraktade den hydda, der han likväl, i Bacchi armar och Fröjas sköt, njutit så många oskattbara stunder. Med möda kände han igen sin egen fru, hvilken var den sirén, som nu förtjuste honom, och oansedt verlden ej bestod af mer än åtta menniskor hade han säkert i sin förvirring förnekat sin egen hälft, om hon ej tydeligen öfvertygat honom hvem hon var, medelst hemliga sigillets uppvisande. Noak trodde sig hela milen från sitt hem, men hade endast genom krok- och bivägar kringvandrat en dervid liggande bergskulle. Räknom honom ej detta till svaghet! det är merendels alla filosofers öde: när de genom tusen omvägar tro sig hunnit ett mål, äro de oftast, uttröttade och förvillade, på sitt första ställe."
+  ],
+  "passages": [
+    {
+      "id": "E-H20-ARVID",
+      "text": "på Barbara-dagen, den 4 December 1784, hållet på Claës på hörnet af Cornetten Arvid Adrian Stjernecrantz.",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H20-NOAK",
+      "text": "De bedröfliga vedermälen af den allmänna floden, som en dag mera lifligt föllo Noak i ögonen",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H20-BACCHI",
+      "text": "i Bacchi armar och Fröjas sköt",
+      "reviewStatus": "checked-against-image"
+    }
+  ],
+  "unresolved": [],
+  "changeReason": "Tryckt löptext och noter transkriberade och jämförda med sidbilden; äldre stavning bevarad",
+  "textSha256": "5faa7a1fb3f4a7dcaff672bb101c8a3a5b6187f755a4399989ea8ca4cf6d967f",
+  "changes": [
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        0,
+        2
+      ],
+      "editedWordRange": [
+        0,
+        247
+      ],
+      "before": "• •",
+      "after": "32 TAL på Barbara-dagen, den 4 December 1784, hållet på Claës på hörnet af Cornetten Arvid Adrian Stjernecrantz. Föraktliga flock, som kryper på ett af de mindsta bland de myriader klot som hvimla i den ogränseliga rymden! Du, som under namn af menniska bröstar dig af en höghet, den ditt eget uppförande förnekar! Du, som danad att njuta nöjet i sin förtjusning och sanningen i sin renhet, stundeligen använder din omsorg endast att smärtas och förvillas! Du, som borde andas din egen sällhet i din grannes väl, i din väns trefnad, men fröjdas vid hans fall och segrar, då du trampar honom på hjessan. Du, som fått ett hjerta, för att öma, och ett sköte för att omarma och skydda den olycklige, men förhärdar din själ till en klippa och fördubblar den betrycktes börda med ditt stolta förakt, endast derföre, att du ännu icke varit i lika belägenhet! Du kräfver, att allt skall vara till din tjenst och anser den obetydligaste handräckning du sjelf gör som det utmärktaste ädelmod! Du, som ej känner något lagom, åtminstone intet öfverflöd för de behof dårskapen, vällusten och tusen nycker måla för ditt lystna öga, då du anser den uslaste lott mer än tillräckelig för din torftige like! Du, som skryter af vishet och styrka, men behöfver ej mer än några blickar af två vackra ögon, för att blifva en fullkomlig dåre. Du, som är skapad för naturen, der förställning och bojor äro de första, som emottaga dig! Föraktliga flock! bör"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        4,
+        8
+      ],
+      "editedWordRange": [
+        249,
+        253
+      ],
+      "before": "uudra alt Ooder driinka",
+      "after": "undra att floder dränka"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        9,
+        11
+      ],
+      "editedWordRange": [
+        254,
+        256
+      ],
+      "before": "ocb brInnande",
+      "after": "och brinnande"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        15,
+        16
+      ],
+      "editedWordRange": [
+        260,
+        261
+      ],
+      "before": "uDder",
+      "after": "under"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        17,
+        21
+      ],
+      "editedWordRange": [
+        262,
+        265
+      ],
+      "before": "dfirskaper ocb omenskilghe- ter?",
+      "after": "dårskaper och omenskligheter?"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        26,
+        27
+      ],
+      "editedWordRange": [
+        270,
+        271
+      ],
+      "before": "~är,",
+      "after": "här,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        29,
+        32
+      ],
+      "editedWordRange": [
+        273,
+        275
+      ],
+      "before": "sImIle 3ter- hörja,",
+      "after": "skulle återbörja,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        35,
+        37
+      ],
+      "editedWordRange": [
+        278,
+        280
+      ],
+      "before": "sImIle Iilma",
+      "after": "skulle likna"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        40,
+        44
+      ],
+      "editedWordRange": [
+        283,
+        284
+      ],
+      "before": "samtld.l) T .A. L",
+      "after": "samtid.»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        50,
+        51
+      ],
+      "editedWordRange": [
+        290,
+        291
+      ],
+      "before": "Iloden,",
+      "after": "floden,"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        52,
+        61
+      ],
+      "editedWordRange": [
+        292,
+        292
+      ],
+      "before": "Ilil 8arbara-dag~n, den \" December 17Sj, bflllet l,fl Claes",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        64,
+        66
+      ],
+      "editedWordRange": [
+        295,
+        297
+      ],
+      "before": "IinIgt rollo",
+      "after": "lifligt föllo"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        69,
+        70
+      ],
+      "editedWordRange": [
+        300,
+        301
+      ],
+      "before": "artvungo",
+      "after": "aftvungo"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        71,
+        78
+      ],
+      "editedWordRange": [
+        302,
+        302
+      ],
+      "before": "IlfI hörnet ar Coruetteu ,\\!'Vid Addan Stjernecrantz.",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        79,
+        80
+      ],
+      "editedWordRange": [
+        303,
+        304
+      ],
+      "before": "förbilIrade,",
+      "after": "förbittrade,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        84,
+        99
+      ],
+      "editedWordRange": [
+        308,
+        310
+      ],
+      "before": "För- Föral<lliga Ooell, SOlD kryp er p ~ ett af de ruind sta djupad I",
+      "after": "Fördjupad i"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        103,
+        121
+      ],
+      "editedWordRange": [
+        314,
+        318
+      ],
+      "before": "osla slägtet bade ban bland de myriad er klot so m bvi Olla t den ogrän sellga rym-",
+      "after": "usla slägte hade han"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        122,
+        123
+      ],
+      "editedWordRange": [
+        319,
+        320
+      ],
+      "before": "fortsalt",
+      "after": "fortsatt"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        124,
+        126
+      ],
+      "editedWordRange": [
+        321,
+        323
+      ],
+      "before": "tJIosoOska granskningar.",
+      "after": "filosofiska granskningar,"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        128,
+        143
+      ],
+      "editedWordRange": [
+        325,
+        325
+      ],
+      "before": "~n vac- den ! Du, som und er namn af mennl ska bröstar dig af",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        144,
+        145
+      ],
+      "editedWordRange": [
+        326,
+        327
+      ],
+      "before": "ker",
+      "after": "vacker"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        153,
+        187
+      ],
+      "editedWordRange": [
+        335,
+        338
+      ],
+      "before": "lDuntran: hög het, den ditt ege t upprörand e förn ekar I Du , som danad att njuta nöj et I si n förlju snin g och sanningrn i sin reuhet, \" Kom, kärn",
+      "after": "muntran: »Kom, kära"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        191,
+        206
+      ],
+      "editedWordRange": [
+        342,
+        343
+      ],
+      "before": "sln nd eligen an vä nd er din ollJsorg endast alt smärta s oeb Ocb",
+      "after": "Och"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        209,
+        210
+      ],
+      "editedWordRange": [
+        346,
+        347
+      ],
+      "before": "ocb",
+      "after": "och"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        211,
+        227
+      ],
+      "editedWordRange": [
+        348,
+        350
+      ],
+      "before": "fö rvillas! Du, som bord e andas diu egen sällb et i din gran- Kom. Hit",
+      "after": "Kom, låt"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        228,
+        229
+      ],
+      "editedWordRange": [
+        351,
+        352
+      ],
+      "before": "mästra",
+      "after": "nästra"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        232,
+        247
+      ],
+      "editedWordRange": [
+        355,
+        355
+      ],
+      "before": "nes väl, i din väns treInad , lU en fröjda s vid bans fall oeb",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        251,
+        281
+      ],
+      "editedWordRange": [
+        359,
+        361
+      ],
+      "before": "begripa\" I). segrar, d3 du trampar bonom pli hj ess au . Du, som fått elt hj erta, för att öma, och r it sllö tr för att omarma ocb",
+      "after": "begripa» 1)."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        282,
+        283
+      ],
+      "editedWordRange": [
+        362,
+        363
+      ],
+      "before": "liknsom",
+      "after": "likasom"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        284,
+        285
+      ],
+      "editedWordRange": [
+        364,
+        365
+      ],
+      "before": "ell",
+      "after": "en"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        286,
+        287
+      ],
+      "editedWordRange": [
+        366,
+        367
+      ],
+      "before": "stadIlade",
+      "after": "stadnade"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        289,
+        290
+      ],
+      "editedWordRange": [
+        369,
+        370
+      ],
+      "before": "lDed",
+      "after": "med"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        291,
+        306
+      ],
+      "editedWordRange": [
+        371,
+        373
+      ],
+      "before": "skydda deu olycl,li ge. meu förh ärdar e1in sj äl Ull en klippa bäpen föruudran",
+      "after": "häpen förundran"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        311,
+        332
+      ],
+      "editedWordRange": [
+        378,
+        381
+      ],
+      "before": "il II vlii , I och fördubblar den betr) cll l es börd a lIl ed ditt stol(a förakt , Bacchl",
+      "after": "likväl, i Bacchi"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        337,
+        355
+      ],
+      "editedWordRange": [
+        386,
+        389
+      ],
+      "before": "s3 Dl~nga osllatlbara endast derrore, att du ännu i el,e va l it i lika bel äge nhet!",
+      "after": "så många oskattbara"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        356,
+        357
+      ],
+      "editedWordRange": [
+        390,
+        391
+      ],
+      "before": "Merl",
+      "after": "Med"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        360,
+        361
+      ],
+      "editedWordRange": [
+        394,
+        395
+      ],
+      "before": "Igen",
+      "after": "igen"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        363,
+        381
+      ],
+      "editedWordRange": [
+        397,
+        399
+      ],
+      "before": "fru , hl'lIl{cn Du krMI'er, att allt siI all vara till diu tje nst och an ser den",
+      "after": "fru, hvilken"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        383,
+        384
+      ],
+      "editedWordRange": [
+        401,
+        402
+      ],
+      "before": "siren,",
+      "after": "sirén,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        385,
+        388
+      ],
+      "editedWordRange": [
+        403,
+        405
+      ],
+      "before": "uu rorljn ste",
+      "after": "nu förtjuste"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        389,
+        406
+      ],
+      "editedWordRange": [
+        406,
+        409
+      ],
+      "before": "ocn oan sedt verl- Obetydli gaste handräel,nl ug du sjel f gör som det utm ärk- den",
+      "after": "och oansedt verlden"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        411,
+        430
+      ],
+      "editedWordRange": [
+        414,
+        419
+      ],
+      "before": "lHta mcnnJskor bade ban säll ert taste ädel mod ! Du, som _rj Ilänner nllgot lago m, lItmin stone",
+      "after": "åtta menniskor hade han säkert"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        432,
+        435
+      ],
+      "editedWordRange": [
+        421,
+        423
+      ],
+      "before": "f6rvlrring förn ekat",
+      "after": "förvirring förnekat"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        437,
+        438
+      ],
+      "editedWordRange": [
+        425,
+        426
+      ],
+      "before": "hiilll,",
+      "after": "hälft,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        441,
+        463
+      ],
+      "editedWordRange": [
+        429,
+        432
+      ],
+      "before": "t) dell- tulet öl vr rO öd rör de behof (\\fll'ska llen, I äl/u ste n och tuse n gen öfl'ertygat hooom",
+      "after": "tydeligen öfvertygat honom"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        468,
+        488
+      ],
+      "editedWordRange": [
+        437,
+        440
+      ],
+      "before": "si- fI) cker mala for di tt lys tna öga, dfi dn anse r den uslaste lolt gillets uPPI'isande. NoaJ,",
+      "after": "sigillets uppvisande. Noak"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        490,
+        491
+      ],
+      "editedWordRange": [
+        442,
+        443
+      ],
+      "before": "nela",
+      "after": "hela"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        492,
+        495
+      ],
+      "editedWordRange": [
+        444,
+        445
+      ],
+      "before": "fl ~ o",
+      "after": "från"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        496,
+        513
+      ],
+      "editedWordRange": [
+        446,
+        446
+      ],
+      "before": "mer än tlllräckeli g For din tor ftige li lle ! Du , so m sll r)'ter",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        515,
+        519
+      ],
+      "editedWordRange": [
+        448,
+        450
+      ],
+      "before": "had e enda st",
+      "after": "hade endast"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        520,
+        521
+      ],
+      "editedWordRange": [
+        451,
+        452
+      ],
+      "before": "l<rok-",
+      "after": "krok-"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        522,
+        543
+      ],
+      "editedWordRange": [
+        453,
+        455
+      ],
+      "before": "biv iigar Ilring- ar vishet ocb st) rll a, men behöfl'cr I'j Ul er ii u nfig ra bli c- vandrat",
+      "after": "bivägar kringvandrat"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        546,
+        549
+      ],
+      "editedWordRange": [
+        458,
+        460
+      ],
+      "before": "bergsimIl e. HäknolD",
+      "after": "bergskulle. Räknom"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        550,
+        567
+      ],
+      "editedWordRange": [
+        461,
+        462
+      ],
+      "before": "rj Ilar af tv3 vackra ögon, fö r ;tlt blifl'3 en f fl llliOlDli g dfire .",
+      "after": "ej"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        571,
+        572
+      ],
+      "editedWordRange": [
+        466,
+        467
+      ],
+      "before": "iiI'",
+      "after": "är"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        574,
+        575
+      ],
+      "editedWordRange": [
+        469,
+        470
+      ],
+      "before": "nIosofers",
+      "after": "filosofers"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        576,
+        587
+      ],
+      "editedWordRange": [
+        471,
+        471
+      ],
+      "before": "Du, som är skapad ror uaturen, der förställnin g oen bojor",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        590,
+        592
+      ],
+      "editedWordRange": [
+        474,
+        475
+      ],
+      "before": "tn sen",
+      "after": "tusen"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        596,
+        597
+      ],
+      "editedWordRange": [
+        479,
+        480
+      ],
+      "before": "et!",
+      "after": "ett"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        599,
+        613
+      ],
+      "editedWordRange": [
+        482,
+        482
+      ],
+      "before": ".. aro dc rtirsta, som emottaga di g! För alitli ga noeiI ! bör",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        616,
+        620
+      ],
+      "editedWordRange": [
+        485,
+        489
+      ],
+      "before": "ocb förVillade, pa silt",
+      "after": "och förvillade, på sitt"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        621,
+        629
+      ],
+      "editedWordRange": [
+        490,
+        491
+      ],
+      "before": "ställe• • • 3 , - = .",
+      "after": "ställe."
+    }
+  ]
+}

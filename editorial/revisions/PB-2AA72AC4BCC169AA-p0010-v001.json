@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-2AA72AC4BCC169AA:p0010",
+  "documentId": "PB-2AA72AC4BCC169AA",
+  "pdfPage": 10,
+  "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+  "rawTextSha256": "92e07f3636c2426c820206c9b1e39518b317723a6655d04a5db7c32545fa9126",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [
+    "4",
+    "5"
+  ],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": "4",
+      "basis": "Synlig sidnumrering i sidbild"
+    },
+    {
+      "segment": 1,
+      "printedPage": "5",
+      "basis": "Synlig sidnumrering i sidbild"
+    }
+  ],
+  "notes": [
+    "R. G. K. återges enligt trycket. Bokens rättelselista på PDF-sida 6 anger R. S. K. för denna plats."
+  ],
+  "revision": 1,
+  "parentRevision": null,
+  "status": "selected",
+  "segments": [],
+  "passages": [],
+  "unresolved": [],
+  "changeReason": "Registrerat i första granskningsurvalet",
+  "changes": []
+}

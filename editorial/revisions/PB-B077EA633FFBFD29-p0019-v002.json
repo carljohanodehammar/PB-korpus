@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-B077EA633FFBFD29:p0019",
+  "documentId": "PB-B077EA633FFBFD29",
+  "pdfPage": 19,
+  "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+  "rawTextSha256": "da50ce2fb9f25904475bbde6ecf9cfa923eda94cf3ec860c3fd6d05f2e690ac5",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [
+    "30",
+    "31"
+  ],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": "30",
+      "basis": "Synlig sidnumrering i sidbild"
+    },
+    {
+      "segment": 1,
+      "printedPage": "31",
+      "basis": "Synlig sidnumrering i sidbild"
+    }
+  ],
+  "notes": [
+    "Not 1 fortsätter från vänster till höger boksida. Not 2 och 3 hör till tidigare text utanför urvalet."
+  ],
+  "revision": 2,
+  "parentRevision": 1,
+  "status": "proofread",
+  "segments": [
+    "30\nARIA.\n(Mel.: Min vän, jag ropar dig &c.)\nMin näsduk är helt våt\nKan tänka utaf gråt\nOch heta tårar.\nKexél i Bacchi gård,\nDu var en trogen vård,\nDet oss nu sårar.\n\nKexél! jag gråter dig,\nHvar gång jag lägger mig\nHvar gång jag vaknar.\nDen vän jag fordom vannt\nVid Bischoffsbålens kant\nNu ömt jag saknar.\n\nCHORUS.\nCapitlet oss ej roar mer\nDå man Kexél der icke ser\nSom glädtigt vid sin flaska ler.\nPunsch har alltid något fel\nNär den ej brygges af Kexél.\nNågot Kronobränneri\nBorde köpa honom fri.\n\n1) Arvid Adrian Stjernecrantz, född 1755, Cornett och Lif-Drabant, »en ledigt versgörande, föga poësihaltig, men ingalunda oqvick Bellmannian», som Atterbom benämner honom i Svenska Siare och Skalder, var Kexéls förnämsta",
+    "31\nbiträde vid stiftandet af P. B. och till sin död, den 13 Martii 1785, en bland de mest nitiskt arbetande i detta sällskap, vid hvars sammankomster foster af hans lediga, okonstlade men ofta satiriska penna sällan saknades. Få af hans arbeten äro tryckta, utom i dagblad och ströskrifter.\n\n2) Läses som tuppen gal.\n3) En skrift, hvarför Kexél, »för hårda och ogrundade »tillvitelser mot tidens Presterskap i gemen och obehöriga »tillåtelser mot öfrige medborgare i Riket» dömdes (1769) att böta 300 daler silfvermynt."
+  ],
+  "passages": [
+    {
+      "id": "E-H19-KEXEL",
+      "text": "Kexél i Bacchi gård,",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H19-ARVID",
+      "text": "Arvid Adrian Stjernecrantz, född 1755, Cornett och Lif-Drabant",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H19-CAPITEL",
+      "text": "Capitlet oss ej roar mer",
+      "reviewStatus": "checked-against-image"
+    }
+  ],
+  "unresolved": [],
+  "changeReason": "Tryckt löptext och noter transkriberade och jämförda med sidbilden; äldre stavning bevarad",
+  "textSha256": "a1e0193be126032a9d9e0a3eaf538d1b5ae3e0923211859aa837518e56fdaa11",
+  "changes": [
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        0,
+        1
+      ],
+      "editedWordRange": [
+        0,
+        0
+      ],
+      "before": ",",
+      "after": ""
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        2,
+        2
+      ],
+      "editedWordRange": [
+        1,
+        124
+      ],
+      "before": "",
+      "after": "ARIA. (Mel.: Min vän, jag ropar dig &c.) Min näsduk är helt våt Kan tänka utaf gråt Och heta tårar. Kexél i Bacchi gård, Du var en trogen vård, Det oss nu sårar. Kexél! jag gråter dig, Hvar gång jag lägger mig Hvar gång jag vaknar. Den vän jag fordom vannt Vid Bischoffsbålens kant Nu ömt jag saknar. CHORUS. Capitlet oss ej roar mer Då man Kexél der icke ser Som glädtigt vid sin flaska ler. Punsch har alltid något fel När den ej brygges af Kexél. Något Kronobränneri Borde köpa honom fri. 1) Arvid Adrian Stjernecrantz, född 1755, Cornett och Lif-Drabant, »en ledigt versgörande, föga poësihaltig, men ingalunda oqvick Bellmannian», som Atterbom benämner honom i Svenska Siare och Skalder, var Kexéls förnämsta"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        3,
+        4
+      ],
+      "editedWordRange": [
+        125,
+        125
+      ],
+      "before": "ARlA,",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        7,
+        9
+      ],
+      "editedWordRange": [
+        128,
+        130
+      ],
+      "before": ".f p,",
+      "after": "af P."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        10,
+        11
+      ],
+      "editedWordRange": [
+        131,
+        132
+      ],
+      "before": "ocb",
+      "after": "och"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        16,
+        23
+      ],
+      "editedWordRange": [
+        137,
+        137
+      ],
+      "before": "(MeJ.: Afin vä\", jag ,.opOI' dig g-c.)",
+      "after": ""
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        33,
+        39
+      ],
+      "editedWordRange": [
+        147,
+        147
+      ],
+      "before": "Min näsdu l( iir belt \\'fil",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        41,
+        42
+      ],
+      "editedWordRange": [
+        149,
+        150
+      ],
+      "before": "bvars",
+      "after": "hvars"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        47,
+        51
+      ],
+      "editedWordRange": [
+        155,
+        155
+      ],
+      "before": "Kan länka utaf gr3t",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        57,
+        59
+      ],
+      "editedWordRange": [
+        161,
+        163
+      ],
+      "before": "saknades, F~",
+      "after": "saknades. Få"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        60,
+        63
+      ],
+      "editedWordRange": [
+        164,
+        164
+      ],
+      "before": "Och beta tårar,",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        71,
+        72
+      ],
+      "editedWordRange": [
+        172,
+        173
+      ],
+      "before": "ströskrifter,",
+      "after": "ströskrifter."
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        77,
+        81
+      ],
+      "editedWordRange": [
+        178,
+        178
+      ],
+      "before": "Kexel i Baccbi gärd,",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        85,
+        86
+      ],
+      "editedWordRange": [
+        182,
+        183
+      ],
+      "before": "Kexel,",
+      "after": "Kexél,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        87,
+        88
+      ],
+      "editedWordRange": [
+        184,
+        185
+      ],
+      "before": "hiil'da",
+      "after": "hårda"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        90,
+        95
+      ],
+      "editedWordRange": [
+        187,
+        187
+      ],
+      "before": "Do var en trogen \\'ärd,",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        103,
+        108
+      ],
+      "editedWordRange": [
+        195,
+        196
+      ],
+      "before": "Det oss nu slirar, »tillätelser",
+      "after": "»tillåtelser"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        109,
+        110
+      ],
+      "editedWordRange": [
+        197,
+        198
+      ],
+      "before": "ärrige",
+      "after": "öfrige"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        112,
+        113
+      ],
+      "editedWordRange": [
+        200,
+        201
+      ],
+      "before": "Rikel»",
+      "after": "Riket»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        119,
+        239
+      ],
+      "editedWordRange": [
+        207,
+        208
+      ],
+      "before": "silfvermyot. Kexel! jag grfiter dig, Hvar gång jag liigger mig lIvar gäng jag valmar, Den vän jag fordom vannl Vid Biscbolfsblllens kant No ömt jag saknar, CHORUS, Capillet oss ej roar mer DlI man Kexel der icke ser Som glädtigt vid sin flaska ler, Punscb bar alltid nllgot fel När den ej brygges af Kexel, NlIgot Krouobränneri Borde köpa honom fri, , ') Arvid Adrian Stjernecrantz, född 1755, Come tt och Llf-Drabant, »en lediat o • o versaörande o J fo\"ga poesI \" 'lit' la Ig, men Ingnlunda oqvlCk Bellmannian» som Atte b b \" h' . J r om enamner onom I Svenska SIare och SkalderJval' ' Kexe'l S f\"ornams \" t il , F _ - - =",
+      "after": "silfvermynt."
+    }
+  ]
+}

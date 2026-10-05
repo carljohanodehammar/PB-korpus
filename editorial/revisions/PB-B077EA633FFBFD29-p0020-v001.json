@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-B077EA633FFBFD29:p0020",
+  "documentId": "PB-B077EA633FFBFD29",
+  "pdfPage": 20,
+  "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+  "rawTextSha256": "50bc12c92d06d75b5bec857cf867f2096bbde4de5c1d0f75b5643c26c9a36d42",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [
+    "32",
+    "33"
+  ],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": "32",
+      "basis": "Synlig sidnumrering i sidbild"
+    },
+    {
+      "segment": 1,
+      "printedPage": "33",
+      "basis": "Synlig sidnumrering i sidbild"
+    }
+  ],
+  "notes": [
+    "Talets inledning saknar inledande citattecken i trycket men har ett avslutande citattecken på sidan 33. Detta bevaras.",
+    "Not 1 fortsätter utanför urvalet."
+  ],
+  "revision": 1,
+  "parentRevision": null,
+  "status": "selected",
+  "segments": [],
+  "passages": [],
+  "unresolved": [],
+  "changeReason": "Registrerat i första granskningsurvalet",
+  "changes": []
+}

@@ -1,0 +1,991 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-2AA72AC4BCC169AA:p0006",
+  "documentId": "PB-2AA72AC4BCC169AA",
+  "pdfPage": 6,
+  "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+  "rawTextSha256": "6b0b016fa13aa4318c3d92da2cb7bcf135046e46f92c3b4f6c284d69a056198e",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": null,
+      "basis": "Inget tryckt sidnummer synligt; ingen numrering antagen"
+    },
+    {
+      "segment": 1,
+      "printedPage": null,
+      "basis": "Inget tryckt sidnummer synligt; ingen numrering antagen"
+    }
+  ],
+  "notes": [
+    "Bokens egen rättelselista transkriberas här. Dess rättelser har inte tyst förts in i andra sidors källtext."
+  ],
+  "revision": 2,
+  "parentRevision": 1,
+  "status": "proofread",
+  "segments": [
+    "inlägg. Till dessa ordensbröder, äfvensom de många i öfrigt, hvilka bidragit till arbetets framgång, hembär jag härmed min djupa tacksamhet.\n\nAtt en del af de hädangångna ordensmedlemmarna så knapphändigt behandlats, att icke ens förnamn äro utsatta, beror på fullständig saknad af materialier.\n\nSlutligen anhålles, att rättelser och tillägg godhetsfullt meddelas undertecknad för införande i det interfolierade exemplar, som tillhör arkivet.\n\nStockholm den 1 mars 1903.\nAUGUST KINBERG.",
+    "Rättelser och tillägg.\n\nSid. 5 sista raden står: R. G. K., skall vara: R. S. K.\n» 16 första raden står: n:r 25, läs: n:r 26.\n» 80 n:r 642: Kanslist. F. på Gotland, † 1798 i Stockholm.\n» 108 » 946: F. omkr. 1769.\n» 114 » 1027: F. 1827.\n» 118 » 1039: F. 1773, † 1820.\n» 120 » 1059: F. i Stockholm.\n» 121 » 1077: Löjtnant vid borgerskapet. † 5 juni 1847.\n» 127 andra raden står: af Zillén, skall vara: af Zellén.\n» 128 n:r 1170: F. 1762 i Karlstad.\n» 132 » 1208: † i Stockholm 1831.\n» 138 » 1283: F. 6 nov. 1736 i Halmstad, † 10 febr. 1808 i Stockholm.\n» 139 » 1301: F. i Stockholm, † derst. R. G. K.\n» 147 » 1396: F. omkr. 1778.\n» 154 » 1489: F. omkr. 1763.\n» 157 » 1537: F. 1787.\n» 161 » 1595: F. 1770.\n» 163 » 1624: † 20 maj 1848.\n» 164 » 1638: † 1823 (icke 1824).\n» 171 » 1739: Fagerlund (icke Fagerlind). R. S. K. 1827.\n» 172 » 1741: F. omkr. 1788.\n» 175 » 1765: † 27 dec. 1831."
+  ],
+  "passages": [
+    {
+      "id": "E-K06-KINBERG",
+      "text": "AUGUST KINBERG.",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K06-TILLAGG",
+      "text": "Slutligen anhålles, att rättelser och tillägg godhetsfullt meddelas undertecknad för införande i det interfolierade exemplar, som tillhör arkivet.",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K06-ERRATA",
+      "text": "Sid. 5 sista raden står: R. G. K., skall vara: R. S. K.",
+      "reviewStatus": "checked-against-image"
+    }
+  ],
+  "unresolved": [],
+  "changeReason": "Tryckt löptext och noter transkriberade och jämförda med sidbilden; äldre stavning bevarad",
+  "textSha256": "8d2ecab69ac1ad33435c4c205e24c9754bca0f65b8fdaa0d209c606c6f830872",
+  "changes": [
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        0,
+        1
+      ],
+      "editedWordRange": [
+        0,
+        1
+      ],
+      "before": "iJlliigg.",
+      "after": "inlägg."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        3,
+        7
+      ],
+      "editedWordRange": [
+        3,
+        7
+      ],
+      "before": "ordeIlsbröder, aft'cl/sOIll dc 1/Iål/lifT",
+      "after": "ordensbröder, äfvensom de många"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        9,
+        10
+      ],
+      "editedWordRange": [
+        9,
+        10
+      ],
+      "before": "Imllm",
+      "after": "hvilka"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        13,
+        15
+      ],
+      "editedWordRange": [
+        13,
+        15
+      ],
+      "before": "frflll/gål/g, /lell/bär",
+      "after": "framgång, hembär"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        16,
+        17
+      ],
+      "editedWordRange": [
+        16,
+        17
+      ],
+      "before": "Itärmcd",
+      "after": "härmed"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        18,
+        20
+      ],
+      "editedWordRange": [
+        18,
+        20
+      ],
+      "before": "djllpa tacksam/let.",
+      "after": "djupa tacksamhet."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        21,
+        22
+      ],
+      "editedWordRange": [
+        21,
+        22
+      ],
+      "before": "CIl",
+      "after": "en"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        24,
+        27
+      ],
+      "editedWordRange": [
+        24,
+        27
+      ],
+      "before": "dc /lädtlllgål/glltl OrdeIlSllted/cIllIllG1'llil",
+      "after": "de hädangångna ordensmedlemmarna"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        28,
+        30
+      ],
+      "editedWordRange": [
+        28,
+        30
+      ],
+      "before": "Imapplländigt bdwlldlats,",
+      "after": "knapphändigt behandlats,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        32,
+        36
+      ],
+      "editedWordRange": [
+        32,
+        36
+      ],
+      "before": "elis fÖ1'Iltllllll tiro Iltsatta,",
+      "after": "ens förnamn äro utsatta,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        38,
+        39
+      ],
+      "editedWordRange": [
+        38,
+        39
+      ],
+      "before": "jllllständig",
+      "after": "fullständig"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        41,
+        44
+      ],
+      "editedWordRange": [
+        41,
+        44
+      ],
+      "before": "lIlatcrialier. lutligm anllålks,",
+      "after": "materialier. Slutligen anhålles,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        45,
+        47
+      ],
+      "editedWordRange": [
+        45,
+        47
+      ],
+      "before": "1'ättclser oclt",
+      "after": "rättelser och"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        48,
+        49
+      ],
+      "editedWordRange": [
+        48,
+        67
+      ],
+      "before": "god/letsfull!",
+      "after": "godhetsfullt meddelas undertecknad för införande i det interfolierade exemplar, som tillhör arkivet. Stockholm den 1 mars 1903. AUGUST KINBERG."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        52,
+        66
+      ],
+      "editedWordRange": [
+        70,
+        71
+      ],
+      "before": "IIIcddelas underteckllad jör il/fdrmzde i dct interfolierade cxell/- plar, som tilllzör arkiz'ct. S id.",
+      "after": "Sid."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        67,
+        77
+      ],
+      "editedWordRange": [
+        72,
+        76
+      ],
+      "before": "s.~s ta rad en s tå r : R .",
+      "after": "sista raden står: R."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        78,
+        85
+      ],
+      "editedWordRange": [
+        77,
+        80
+      ],
+      "before": "K ., sk a ll va ra:",
+      "after": "K., skall vara:"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        87,
+        95
+      ],
+      "editedWordRange": [
+        82,
+        84
+      ],
+      "before": "K . Stockltolm dm 1 lIlars 19 0J.",
+      "after": "K. »"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        96,
+        106
+      ],
+      "editedWordRange": [
+        85,
+        89
+      ],
+      "before": "fors ta rade n s tå r : n :r",
+      "after": "första raden står: n:r"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        107,
+        111
+      ],
+      "editedWordRange": [
+        90,
+        92
+      ],
+      "before": "läs : u: r",
+      "after": "läs: n:r"
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        112,
+        112
+      ],
+      "editedWordRange": [
+        93,
+        94
+      ],
+      "before": "",
+      "after": "»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        113,
+        115
+      ],
+      "editedWordRange": [
+        95,
+        96
+      ],
+      "before": "n :r",
+      "after": "n:r"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        116,
+        120
+      ],
+      "editedWordRange": [
+        97,
+        98
+      ],
+      "before": "K a nslis t.",
+      "after": "Kanslist."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        122,
+        126
+      ],
+      "editedWordRange": [
+        100,
+        102
+      ],
+      "before": "Go tla nd, t",
+      "after": "Gotland, †"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        128,
+        132
+      ],
+      "editedWordRange": [
+        104,
+        106
+      ],
+      "before": "Stock ho ln l.",
+      "after": "Stockholm. »"
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        133,
+        133
+      ],
+      "editedWordRange": [
+        107,
+        108
+      ],
+      "before": "",
+      "after": "»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        135,
+        138
+      ],
+      "editedWordRange": [
+        110,
+        111
+      ],
+      "before": "o mk r.",
+      "after": "omkr."
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        139,
+        142
+      ],
+      "editedWordRange": [
+        112,
+        112
+      ],
+      "before": "AUGUST K JNB.bj(G.",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        143,
+        145
+      ],
+      "editedWordRange": [
+        113,
+        114
+      ],
+      "before": "11 4",
+      "after": "114"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        147,
+        148
+      ],
+      "editedWordRange": [
+        116,
+        117
+      ],
+      "before": "F",
+      "after": "F."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        149,
+        151
+      ],
+      "editedWordRange": [
+        118,
+        120
+      ],
+      "before": "11 8",
+      "after": "» 118"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        153,
+        155
+      ],
+      "editedWordRange": [
+        122,
+        123
+      ],
+      "before": "F .",
+      "after": "F."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        156,
+        157
+      ],
+      "editedWordRange": [
+        124,
+        125
+      ],
+      "before": "-r",
+      "after": "†"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        158,
+        159
+      ],
+      "editedWordRange": [
+        126,
+        127
+      ],
+      "before": "'",
+      "after": "»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        160,
+        164
+      ],
+      "editedWordRange": [
+        128,
+        131
+      ],
+      "before": "• 1°59: F .",
+      "after": "» 1059: F."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        165,
+        170
+      ],
+      "editedWordRange": [
+        132,
+        134
+      ],
+      "before": "S tockh o lm. •",
+      "after": "Stockholm. »"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        172,
+        178
+      ],
+      "editedWordRange": [
+        136,
+        138
+      ],
+      "before": "J077: L öj t na nt",
+      "after": "1077: Löjtnant"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        179,
+        185
+      ],
+      "editedWordRange": [
+        139,
+        141
+      ],
+      "before": "b o rge rsk apet. -r",
+      "after": "borgerskapet. †"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        190,
+        194
+      ],
+      "editedWordRange": [
+        146,
+        147
+      ],
+      "before": "a n d ra",
+      "after": "andra"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        195,
+        198
+      ],
+      "editedWordRange": [
+        148,
+        149
+      ],
+      "before": "s t år:",
+      "after": "står:"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        199,
+        211
+      ],
+      "editedWordRange": [
+        150,
+        155
+      ],
+      "before": "Zllle u, sk all va ra: a f Ze lle ll .",
+      "after": "Zillén, skall vara: af Zellén."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        213,
+        217
+      ],
+      "editedWordRange": [
+        157,
+        159
+      ],
+      "before": "n :r 11 70:",
+      "after": "n:r 1170:"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        220,
+        223
+      ],
+      "editedWordRange": [
+        162,
+        164
+      ],
+      "before": "K arls tad.",
+      "after": "Karlstad. »"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        224,
+        228
+      ],
+      "editedWordRange": [
+        165,
+        168
+      ],
+      "before": ", 1208 : 'j-",
+      "after": "» 1208: †"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        229,
+        232
+      ],
+      "editedWordRange": [
+        169,
+        170
+      ],
+      "before": "S tockh olm",
+      "after": "Stockholm"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        236,
+        240
+      ],
+      "editedWordRange": [
+        174,
+        178
+      ],
+      "before": "1233: r::.6 n ov.",
+      "after": "1283: F. 6 nov."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        242,
+        251
+      ],
+      "editedWordRange": [
+        180,
+        184
+      ],
+      "before": "H almstad , 'j' l O fe b r.",
+      "after": "Halmstad, † 10 febr."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        253,
+        258
+      ],
+      "editedWordRange": [
+        186,
+        188
+      ],
+      "before": "S t ockh olm •",
+      "after": "Stockholm. »"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        260,
+        272
+      ],
+      "editedWordRange": [
+        190,
+        197
+      ],
+      "before": "13° 1: 1-. I S tockholm , t d erst. R .",
+      "after": "1301: F. i Stockholm, † derst. R."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        274,
+        275
+      ],
+      "editedWordRange": [
+        199,
+        200
+      ],
+      "before": ".",
+      "after": "»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        279,
+        281
+      ],
+      "editedWordRange": [
+        204,
+        205
+      ],
+      "before": "o mkr.",
+      "after": "omkr."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        282,
+        283
+      ],
+      "editedWordRange": [
+        206,
+        207
+      ],
+      "before": "•",
+      "after": "»"
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        284,
+        284
+      ],
+      "editedWordRange": [
+        208,
+        209
+      ],
+      "before": "",
+      "after": "»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        286,
+        288
+      ],
+      "editedWordRange": [
+        211,
+        212
+      ],
+      "before": "o mkr.",
+      "after": "omkr."
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        289,
+        289
+      ],
+      "editedWordRange": [
+        213,
+        214
+      ],
+      "before": "",
+      "after": "»"
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        290,
+        290
+      ],
+      "editedWordRange": [
+        215,
+        216
+      ],
+      "before": "",
+      "after": "»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        291,
+        295
+      ],
+      "editedWordRange": [
+        217,
+        220
+      ],
+      "before": "F . 1787· •",
+      "after": "F. 1787. »"
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        300,
+        300
+      ],
+      "editedWordRange": [
+        225,
+        226
+      ],
+      "before": "",
+      "after": "»"
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        301,
+        301
+      ],
+      "editedWordRange": [
+        227,
+        228
+      ],
+      "before": "",
+      "after": "»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        302,
+        303
+      ],
+      "editedWordRange": [
+        229,
+        230
+      ],
+      "before": "t",
+      "after": "†"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        304,
+        306
+      ],
+      "editedWordRange": [
+        231,
+        232
+      ],
+      "before": "m aj",
+      "after": "maj"
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        307,
+        307
+      ],
+      "editedWordRange": [
+        233,
+        234
+      ],
+      "before": "",
+      "after": "»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        308,
+        312
+      ],
+      "editedWordRange": [
+        235,
+        238
+      ],
+      "before": "• 1638 : -r",
+      "after": "» 1638: †"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        313,
+        315
+      ],
+      "editedWordRange": [
+        239,
+        240
+      ],
+      "before": "(ick e",
+      "after": "(icke"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        316,
+        317
+      ],
+      "editedWordRange": [
+        241,
+        242
+      ],
+      "before": ",",
+      "after": "»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        321,
+        329
+      ],
+      "editedWordRange": [
+        246,
+        249
+      ],
+      "before": "(ick e Fage rlill cl ). R .",
+      "after": "(icke Fagerlind). R."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        330,
+        332
+      ],
+      "editedWordRange": [
+        250,
+        251
+      ],
+      "before": "K .",
+      "after": "K."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        335,
+        338
+      ],
+      "editedWordRange": [
+        254,
+        256
+      ],
+      "before": ", 174 1:",
+      "after": "» 1741:"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        339,
+        341
+      ],
+      "editedWordRange": [
+        257,
+        258
+      ],
+      "before": "o mkr.",
+      "after": "omkr."
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        342,
+        342
+      ],
+      "editedWordRange": [
+        259,
+        260
+      ],
+      "before": "",
+      "after": "»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        343,
+        346
+      ],
+      "editedWordRange": [
+        261,
+        264
+      ],
+      "before": "• 176s: 'j-",
+      "after": "» 1765: †"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        348,
+        351
+      ],
+      "editedWordRange": [
+        266,
+        267
+      ],
+      "before": "183 1. .",
+      "after": "1831."
+    }
+  ]
+}

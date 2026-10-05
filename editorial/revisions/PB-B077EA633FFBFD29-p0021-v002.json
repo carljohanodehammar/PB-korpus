@@ -1,0 +1,1091 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-B077EA633FFBFD29:p0021",
+  "documentId": "PB-B077EA633FFBFD29",
+  "pdfPage": 21,
+  "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+  "rawTextSha256": "6f5159d6d512a4f1cc58fada17ebb828f237cc7d3037ba817a6d532b2d84e344",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [
+    "34",
+    "35"
+  ],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": "34",
+      "basis": "Synlig sidnumrering i sidbild"
+    },
+    {
+      "segment": 1,
+      "printedPage": "35",
+      "basis": "Synlig sidnumrering i sidbild"
+    }
+  ],
+  "notes": [],
+  "revision": 2,
+  "parentRevision": 1,
+  "status": "proofread",
+  "segments": [
+    "34\nMen denna dagen är ej helgad Noak. Vändom då vår uppmärksamhet på det ämne dagen kräfver. Vi fira Barbara; men rätta grunden torde ej förrän nu bland oss varit känd. Vi förena alla våra röster till Gumman Noaks lof, men ingen, åtminstone få, lära allt hittills veta, att hon hette Barbara. Jag har helt nyligen hemtat denna upplysning hos en af mina vänner, en lärd, ja, jag vågar säga den lärdaste i Sverige. Han kan draga eldgnistor ur lackstänger och förmå pappersdockor att dansa på hartzkakor; han kan utantill alla de volumer af contradansar, som utkommit från Herr Runemarks låda, och innan kort torde han bli Præses i Uppfostrings-sällskapet. Han känner språken, som talades vid och straxt efter Babelska förbistringen, långt grundeligare än — sitt modersmål, och har isynnerhet en systematisk insigt i historien om de tidehvarf, folkslag och händelser, som man med skäl tviflar ha varit till. I anseende härtill har han ock ett utvaldt bibliothek af alla slags oläsliga böcker och manuscripter; och det är här jag egenteligen träffat de källor, utur hvilka jag någon gång tänker hemta och utarbeta Fru Barbara Noaks äreminne, hvaraf jag i dag, som hastigast, vill meddela försök till ett utkast. Den ena är en rimkrönika före syndafloden, och den andra en Filosofico-Etymologico-Genealogico-Chronologico-historisk likpredikan, med tillhörande personalier, hållen öfver Fru Barbara Noak i Carpentras’ kyrka i Frankrike, der hon ligger begrafven, och det säges, att hennes kista ännu är att bese, fastän tom, nescio quo casu. Detta är en af de omständigheter, som ökar författarens trovärdighet. Ty han säger i sitt företal, att Carpentras (eller Charpentras)",
+    "35\nhar just sitt namn af desse skeppstimmermän och den graf de här beredt sin hustru och mor. Kan väl större historisk sannfärdighet ges? Jag åberopar mig salig Professor Rudbeck och hans Atlantica. Men huruledes kistan blifvit tom måga andra undersöka. Det kunde, till exempel, skett af våda någon gång, då grafven ommurades. Detta är dock blott en gissning. Sannolikare är, att man här träffar spår till någon snikenhet hos några arfvingar, eller tilläfventyrs hos sjelfva Dom-Capitlet, hvaraf sednare tider försett oss med exempel från Linköping.\n\nMitt egenteliga föremål blir då här att visa den ärorika stam, utur hvilken en så ädel blomma som vår Barbara leder sitt ursprung.\n\nAlla hafva varit Bacchi hjeltar, som ej underlåtit, att vid hans altare äfven knäböja för Fröja. Att med mina Auctorer följa Gumman Noaks förfäder, son efter far, skulle bli en Bibliotheks-volume, heldst de sträcka, dessa anor, till hela fyrahundrade åren före verldens skapelse. Låtom oss endast nämna de förnämste och bland dem en\n\nTuban, Bacchi man och fältherre. En Alexander, en Cæsar, ja, större än båda. Verlden har ännu ej egt hans like, men den fördubblade glans, hvarmed krigsvetenskapen nu börjar utbreda sitt sken öfver hela verlden, försäkrar oss, att en framtid skall kunna skryta med hans täflare. Hvar gång fältslag lemnades, utsåg han alltid en höjd, eller i brist deraf, ett träd bakom arméen, der han åsidosatte allt och fattade sin post så, att han med sin kikare beqvämligen kunde iakttaga de mindsta rörelser å båda sidor och genom sina flygeladjutanter, som derföre voro en legion, ge behöriga ordres i alla förefallande händelser."
+  ],
+  "passages": [
+    {
+      "id": "E-H21-BARBARA",
+      "text": "Vi förena alla våra röster till Gumman Noaks lof, men ingen, åtminstone få, lära allt hittills veta, att hon hette Barbara.",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H21-FROJA",
+      "text": "Alla hafva varit Bacchi hjeltar, som ej underlåtit, att vid hans altare äfven knäböja för Fröja.",
+      "reviewStatus": "checked-against-image"
+    }
+  ],
+  "unresolved": [],
+  "changeReason": "Tryckt löptext och noter transkriberade och jämförda med sidbilden; äldre stavning bevarad",
+  "textSha256": "2139a5b22636b519d3b1e92a6077dc4ae944afa06d0e2106f155773896297b85",
+  "changes": [
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        0,
+        3
+      ],
+      "editedWordRange": [
+        0,
+        2
+      ],
+      "before": ", 35 MeD",
+      "after": "34 Men"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        7,
+        8
+      ],
+      "editedWordRange": [
+        6,
+        7
+      ],
+      "before": "belgad",
+      "after": "helgad"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        11,
+        21
+      ],
+      "editedWordRange": [
+        10,
+        11
+      ],
+      "before": "bar jnst sitt namn ar desse sl{('r[lstlrnlDerm~n och den vär",
+      "after": "vår"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        22,
+        23
+      ],
+      "editedWordRange": [
+        12,
+        13
+      ],
+      "before": "pli",
+      "after": "på"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        24,
+        25
+      ],
+      "editedWordRange": [
+        14,
+        15
+      ],
+      "before": "~mne",
+      "after": "ämne"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        26,
+        28
+      ],
+      "editedWordRange": [
+        16,
+        18
+      ],
+      "before": "kriirl'rr. VI",
+      "after": "kräfver. Vi"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        29,
+        43
+      ],
+      "editedWordRange": [
+        19,
+        20
+      ],
+      "before": "• graf de häl' heredt sin hustru och mor, ' Kan väl större Barbar~;",
+      "after": "Barbara;"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        44,
+        45
+      ],
+      "editedWordRange": [
+        21,
+        22
+      ],
+      "before": "rälla",
+      "after": "rätta"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        46,
+        47
+      ],
+      "editedWordRange": [
+        23,
+        24
+      ],
+      "before": "turde",
+      "after": "torde"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        52,
+        60
+      ],
+      "editedWordRange": [
+        29,
+        29
+      ],
+      "before": "blstorisk sannfärdighet ges? Jag 5beropM llJig salig Pro-",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        61,
+        62
+      ],
+      "editedWordRange": [
+        30,
+        31
+      ],
+      "before": "Iländ.",
+      "after": "känd."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        65,
+        66
+      ],
+      "editedWordRange": [
+        34,
+        35
+      ],
+      "before": "vllra",
+      "after": "våra"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        69,
+        79
+      ],
+      "editedWordRange": [
+        38,
+        40
+      ],
+      "before": "NoalIS ressor Rudbeck och hans Atlantica. Men huruledes kistan 101',",
+      "after": "Noaks lof,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        82,
+        83
+      ],
+      "editedWordRange": [
+        43,
+        44
+      ],
+      "before": "fä,",
+      "after": "få,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        86,
+        87
+      ],
+      "editedWordRange": [
+        47,
+        48
+      ],
+      "before": "vetat,",
+      "after": "veta,"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        88,
+        98
+      ],
+      "editedWordRange": [
+        49,
+        49
+      ],
+      "before": "blif\"it tom m§ga andra undersöka. Det I<nnde, till exem- •",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        99,
+        100
+      ],
+      "editedWordRange": [
+        50,
+        51
+      ],
+      "before": "belte",
+      "after": "hette"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        102,
+        104
+      ],
+      "editedWordRange": [
+        53,
+        55
+      ],
+      "before": "bar belt",
+      "after": "har helt"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        107,
+        117
+      ],
+      "editedWordRange": [
+        58,
+        58
+      ],
+      "before": "pel, skett af vilda någon gÄng, dll grafl'cn OlD murades.",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        124,
+        125
+      ],
+      "editedWordRange": [
+        65,
+        66
+      ],
+      "before": "liird,",
+      "after": "lärd,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        127,
+        138
+      ],
+      "editedWordRange": [
+        68,
+        69
+      ],
+      "before": "vagar Delta är docil blott en gissning. Sannolil<are är, alt man",
+      "after": "vågar"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        146,
+        156
+      ],
+      "editedWordRange": [
+        77,
+        78
+      ],
+      "before": "eIdgnistor häl' träffar spär till nl\\gon snikenhet hos några arfvingar,",
+      "after": "eldgnistor"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        157,
+        158
+      ],
+      "editedWordRange": [
+        79,
+        80
+      ],
+      "before": "laclIstiinger",
+      "after": "lackstänger"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        159,
+        160
+      ],
+      "editedWordRange": [
+        81,
+        82
+      ],
+      "before": "förmä",
+      "after": "förmå"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        161,
+        162
+      ],
+      "editedWordRange": [
+        83,
+        84
+      ],
+      "before": "aU",
+      "after": "att"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        163,
+        173
+      ],
+      "editedWordRange": [
+        85,
+        88
+      ],
+      "before": "pli eller tilläfventyrs hos sjelfl'a DOUl-Capitlet, hl'araf sednare hartzkalwr; ban",
+      "after": "på hartzkakor; han"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        174,
+        175
+      ],
+      "editedWordRange": [
+        89,
+        90
+      ],
+      "before": "ntantill",
+      "after": "utantill"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        177,
+        178
+      ],
+      "editedWordRange": [
+        92,
+        93
+      ],
+      "before": "I'olnmer",
+      "after": "volumer"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        179,
+        188
+      ],
+      "editedWordRange": [
+        94,
+        95
+      ],
+      "before": "cont.ra- tider försett oss med exempel fran Linköping. dansar,",
+      "after": "contradansar,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        189,
+        191
+      ],
+      "editedWordRange": [
+        96,
+        98
+      ],
+      "before": "ut.kommlt frän",
+      "after": "utkommit från"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        195,
+        207
+      ],
+      "editedWordRange": [
+        102,
+        103
+      ],
+      "before": "in- Mitt egenteliga föremål blir då häl' al1 visa dcn äro- nan",
+      "after": "innan"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        209,
+        210
+      ],
+      "editedWordRange": [
+        105,
+        106
+      ],
+      "before": "hau",
+      "after": "han"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        211,
+        212
+      ],
+      "editedWordRange": [
+        107,
+        108
+      ],
+      "before": "Prreses",
+      "after": "Præses"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        214,
+        225
+      ],
+      "editedWordRange": [
+        110,
+        110
+      ],
+      "before": "rika stam, utur livilken en så ädel bloJUma SOOl vär Bar-",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        227,
+        229
+      ],
+      "editedWordRange": [
+        112,
+        113
+      ],
+      "before": "sprlIken ,",
+      "after": "språken,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        231,
+        232
+      ],
+      "editedWordRange": [
+        115,
+        116
+      ],
+      "before": "Vid",
+      "after": "vid"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        233,
+        234
+      ],
+      "editedWordRange": [
+        117,
+        118
+      ],
+      "before": "straxt.",
+      "after": "straxt"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        235,
+        239
+      ],
+      "editedWordRange": [
+        119,
+        119
+      ],
+      "before": "bara leder sitt ursprung.",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        241,
+        244
+      ],
+      "editedWordRange": [
+        121,
+        123
+      ],
+      "before": "III ngt grundcllgare",
+      "after": "långt grundeligare"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        245,
+        258
+      ],
+      "editedWordRange": [
+        124,
+        127
+      ],
+      "before": "- silt mo- Alla harva varit Bacchi hjeitar, sOUl ej nnderl~tlt, att dersm~l,",
+      "after": "— sitt modersmål,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        259,
+        260
+      ],
+      "editedWordRange": [
+        128,
+        129
+      ],
+      "before": "bar",
+      "after": "har"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        262,
+        263
+      ],
+      "editedWordRange": [
+        131,
+        132
+      ],
+      "before": "syslematisk",
+      "after": "systematisk"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        265,
+        277
+      ],
+      "editedWordRange": [
+        134,
+        135
+      ],
+      "before": "histo- vid hans allarc äfven lmåböja för Fröja. Alt med mina rien",
+      "after": "historien"
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        285,
+        285
+      ],
+      "editedWordRange": [
+        143,
+        392
+      ],
+      "before": "",
+      "after": "med skäl tviflar ha varit till. I anseende härtill har han ock ett utvaldt bibliothek af alla slags oläsliga böcker och manuscripter; och det är här jag egenteligen träffat de källor, utur hvilka jag någon gång tänker hemta och utarbeta Fru Barbara Noaks äreminne, hvaraf jag i dag, som hastigast, vill meddela försök till ett utkast. Den ena är en rimkrönika före syndafloden, och den andra en Filosofico-Etymologico-Genealogico-Chronologico-historisk likpredikan, med tillhörande personalier, hållen öfver Fru Barbara Noak i Carpentras’ kyrka i Frankrike, der hon ligger begrafven, och det säges, att hennes kista ännu är att bese, fastän tom, nescio quo casu. Detta är en af de omständigheter, som ökar författarens trovärdighet. Ty han säger i sitt företal, att Carpentras (eller Charpentras) 35 har just sitt namn af desse skeppstimmermän och den graf de här beredt sin hustru och mor. Kan väl större historisk sannfärdighet ges? Jag åberopar mig salig Professor Rudbeck och hans Atlantica. Men huruledes kistan blifvit tom måga andra undersöka. Det kunde, till exempel, skett af våda någon gång, då grafven ommurades. Detta är dock blott en gissning. Sannolikare är, att man här träffar spår till någon snikenhet hos några arfvingar, eller tilläfventyrs hos sjelfva Dom-Capitlet, hvaraf sednare tider försett oss med exempel från Linköping. Mitt egenteliga föremål blir då här att visa den ärorika stam, utur hvilken en så ädel blomma som vår Barbara leder sitt ursprung. Alla hafva varit Bacchi hjeltar, som ej underlåtit, att vid hans altare äfven knäböja för Fröja. Att med mina"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        291,
+        292
+      ],
+      "editedWordRange": [
+        398,
+        399
+      ],
+      "before": "eftcr",
+      "after": "efter"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        294,
+        305
+      ],
+      "editedWordRange": [
+        401,
+        401
+      ],
+      "before": "med skäl h'iOar ba varit till. I anseende liärtill har ban",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        307,
+        309
+      ],
+      "editedWordRange": [
+        403,
+        405
+      ],
+      "before": "Bibliotbeks-l'oluOIe, !leldst",
+      "after": "Bibliotheks-volume, heldst"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        310,
+        311
+      ],
+      "editedWordRange": [
+        406,
+        407
+      ],
+      "before": "sträcl<a,",
+      "after": "sträcka,"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        313,
+        323
+      ],
+      "editedWordRange": [
+        409,
+        409
+      ],
+      "before": "ock ett utvaldt bibliotbek af alla slags oläsliga böcker och",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        325,
+        327
+      ],
+      "editedWordRange": [
+        411,
+        413
+      ],
+      "before": "fyrabundrade ären",
+      "after": "fyrahundrade åren"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        328,
+        340
+      ],
+      "editedWordRange": [
+        414,
+        417
+      ],
+      "before": "vcrldens sl<apelse. Utom mauuserlpter; och det är här jag egenleligen träffat de",
+      "after": "verldens skapelse. Låtom"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        341,
+        343
+      ],
+      "editedWordRange": [
+        418,
+        420
+      ],
+      "before": "eudast niimna",
+      "after": "endast nämna"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        349,
+        359
+      ],
+      "editedWordRange": [
+        426,
+        426
+      ],
+      "before": "källor, utur hvllka jag nllgon gäng tänker hemta och ut-",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        360,
+        361
+      ],
+      "editedWordRange": [
+        427,
+        428
+      ],
+      "before": "Bacchl",
+      "after": "Bacchi"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        367,
+        376
+      ],
+      "editedWordRange": [
+        434,
+        435
+      ],
+      "before": "arbetaF,.u Ba\"bara Noaks äreminne, livaraf jag t dag, Cresar,",
+      "after": "Cæsar,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        379,
+        380
+      ],
+      "editedWordRange": [
+        438,
+        439
+      ],
+      "before": "hlIda.",
+      "after": "båda."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        385,
+        396
+      ],
+      "editedWordRange": [
+        444,
+        446
+      ],
+      "before": "baus som hastigast, viII meddela (ö\"'silk till ett utkast. Deu lille,",
+      "after": "hans like,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        398,
+        399
+      ],
+      "editedWordRange": [
+        448,
+        449
+      ],
+      "before": "rdrdnbblade",
+      "after": "fördubblade"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        400,
+        401
+      ],
+      "editedWordRange": [
+        450,
+        451
+      ],
+      "before": "i1varOled",
+      "after": "hvarmed"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        402,
+        412
+      ],
+      "editedWordRange": [
+        452,
+        453
+      ],
+      "before": "ella är en rimkrönika före syndaUoden, och den andra nn",
+      "after": "nu"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        414,
+        415
+      ],
+      "editedWordRange": [
+        455,
+        456
+      ],
+      "before": "silt",
+      "after": "sitt"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        416,
+        417
+      ],
+      "editedWordRange": [
+        457,
+        458
+      ],
+      "before": "öfl'er",
+      "after": "öfver"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        419,
+        434
+      ],
+      "editedWordRange": [
+        460,
+        461
+      ],
+      "before": "rorsäkrar en Fllosofieo-EtY01 oIog Ico- Genea I ogico-Ch 1'0 noI ogico-h is to ris k",
+      "after": "försäkrar"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        436,
+        437
+      ],
+      "editedWordRange": [
+        463,
+        464
+      ],
+      "before": "rn",
+      "after": "en"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        438,
+        445
+      ],
+      "editedWordRange": [
+        465,
+        468
+      ],
+      "before": "slIall knnna skryla U1ed bans tänare. likpredikan,",
+      "after": "skall kunna skryta"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        446,
+        451
+      ],
+      "editedWordRange": [
+        469,
+        471
+      ],
+      "before": "tillhörande personalier, h1lllen öfver Frn",
+      "after": "hans täflare."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        452,
+        453
+      ],
+      "editedWordRange": [
+        472,
+        473
+      ],
+      "before": "gäng",
+      "after": "gång"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        455,
+        457
+      ],
+      "editedWordRange": [
+        475,
+        477
+      ],
+      "before": "utsllg ban",
+      "after": "utsåg han"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        459,
+        469
+      ],
+      "editedWordRange": [
+        479,
+        480
+      ],
+      "before": "böjd, Barhara Noak I Carpentras' kyrka I Frankrike, der hon",
+      "after": "höjd,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        475,
+        477
+      ],
+      "editedWordRange": [
+        486,
+        488
+      ],
+      "before": "balwm armeen,",
+      "after": "bakom arméen,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        479,
+        491
+      ],
+      "editedWordRange": [
+        490,
+        491
+      ],
+      "before": "1Isido- ligger begrafven, och det säges, att bennes klsla ännn är satte",
+      "after": "åsidosatte"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        493,
+        494
+      ],
+      "editedWordRange": [
+        493,
+        494
+      ],
+      "before": "fatlade",
+      "after": "fattade"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        496,
+        497
+      ],
+      "editedWordRange": [
+        496,
+        497
+      ],
+      "before": "sil,",
+      "after": "så,"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        502,
+        513
+      ],
+      "editedWordRange": [
+        502,
+        502
+      ],
+      "before": "alt bese, fastän tom, nescio quo casu. Della är en af",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        519,
+        528
+      ],
+      "editedWordRange": [
+        508,
+        510
+      ],
+      "before": "ä bäda de omständigheter, som ökar nirrallarens trovärdighet. Ty",
+      "after": "å båda"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        530,
+        531
+      ],
+      "editedWordRange": [
+        512,
+        513
+      ],
+      "before": "genoUI",
+      "after": "genom"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        532,
+        533
+      ],
+      "editedWordRange": [
+        514,
+        515
+      ],
+      "before": "nygeladjutanter,",
+      "after": "flygeladjutanter,"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        536,
+        546
+      ],
+      "editedWordRange": [
+        518,
+        518
+      ],
+      "before": "• baD säger i silt företal. all Carpentras (eller Charpentras)",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        550,
+        553
+      ],
+      "editedWordRange": [
+        522,
+        524
+      ],
+      "before": "ord res I",
+      "after": "ordres i"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        555,
+        557
+      ],
+      "editedWordRange": [
+        526,
+        527
+      ],
+      "before": "häudelser• -'--~'~.~Q~~--------------------------'\"",
+      "after": "händelser."
+    }
+  ]
+}

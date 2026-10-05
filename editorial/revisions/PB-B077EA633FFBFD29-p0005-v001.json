@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-B077EA633FFBFD29:p0005",
+  "documentId": "PB-B077EA633FFBFD29",
+  "pdfPage": 5,
+  "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+  "rawTextSha256": "6f5765eb7bc3c28012894549fcafa499385af6d04a7c90dceb2ff668bc6bbbbf",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": null,
+      "basis": "Inget tryckt sidnummer synligt; ingen numrering antagen"
+    }
+  ],
+  "notes": [
+    "Årtalet 1778 och tryckformen ”bjerta” återges som på sidbilden. Notmarkeringarna 1–3 har sina förklaringar utanför denna PDF-sida."
+  ],
+  "revision": 1,
+  "parentRevision": null,
+  "status": "selected",
+  "segments": [],
+  "passages": [],
+  "unresolved": [],
+  "changeReason": "Registrerat i första granskningsurvalet",
+  "changes": []
+}

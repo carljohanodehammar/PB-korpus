@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-05T20:17:33.716626+00:00",
+  "result": "passed",
+  "checks": {
+    "originalFiles": 223,
+    "pdfDocuments": 220,
+    "rawPagesUnchanged": 6629,
+    "ocrPagesWithSourceProvenance": 4306,
+    "editorialRevisionsUnchanged": 20
+  },
+  "scope": "Integritet och proveniens; inget bevis för OCR-korrekthet"
+}

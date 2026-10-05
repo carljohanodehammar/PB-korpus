@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-2AA72AC4BCC169AA:p0009",
+  "documentId": "PB-2AA72AC4BCC169AA",
+  "pdfPage": 9,
+  "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+  "rawTextSha256": "1480cd0e94a24f9195ce7ffd11b417b00186cefaf9cbf2de6b073935c79a4a5e",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [
+    "2",
+    "3"
+  ],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": "2",
+      "basis": "Synlig sidnumrering i sidbild"
+    },
+    {
+      "segment": 1,
+      "printedPage": "3",
+      "basis": "Synlig sidnumrering i sidbild"
+    }
+  ],
+  "notes": [
+    "Årtalet 1777 återges enligt Kinberg. Handlingarnas rubrik på PDF-sida 5 anger 1778.",
+    "Tryckets form ”Ordens-Instictelse-dagen” bevaras."
+  ],
+  "revision": 1,
+  "parentRevision": null,
+  "status": "selected",
+  "segments": [],
+  "passages": [],
+  "unresolved": [],
+  "changeReason": "Registrerat i första granskningsurvalet",
+  "changes": []
+}

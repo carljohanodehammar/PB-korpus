@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "release": "0.2.0",
+  "policy": {
+    "transcription": "Äldre stavning och tryckets uppgifter bevaras. Prosa ombryts och radavstavningar sammanfogas; versrader behålls. Typografiska citat- och dödstecken återges med Unicode. Sidgränser och synliga tryckta sidnummer registreras. Illustrationer, vapensköldar, handskrivna signaturer/bildtexter, biblioteksstämplar och arksignaturer ingår inte i löptexttranskriptionen.",
+    "quality": "Korrekturläst betyder en AI-assisterad visuell genomgång av den tryckta löptexten och noterna, inte oberoende dubbelgranskning eller verifiering av historiska sakuppgifter.",
+    "versions": "Publicerade revisioner behålls. En rättning får en ny revisionsfil med föräldrarevision; aktiv revision väljs i edition.json. Belägg har stabila ID och anger vilken textrevision de kontrollerats mot.",
+    "pageNumbers": "Endast synliga sidnummer registreras. Onumrerade sidor, sidnumrering som börjar om och två boksidor på en PDF-sida hanteras uttryckligen."
+  },
+  "pages": [
+    {
+      "pageId": "PB-2AA72AC4BCC169AA:p0005",
+      "documentId": "PB-2AA72AC4BCC169AA",
+      "pdfPage": 5,
+      "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+      "activeRevision": 2,
+      "revisions": [
+        "PB-2AA72AC4BCC169AA-p0005-v001.json",
+        "PB-2AA72AC4BCC169AA-p0005-v002.json"
+      ]
+    },
+    {
+      "pageId": "PB-2AA72AC4BCC169AA:p0006",
+      "documentId": "PB-2AA72AC4BCC169AA",
+      "pdfPage": 6,
+      "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+      "activeRevision": 2,
+      "revisions": [
+        "PB-2AA72AC4BCC169AA-p0006-v001.json",
+        "PB-2AA72AC4BCC169AA-p0006-v002.json"
+      ]
+    },
+    {
+      "pageId": "PB-2AA72AC4BCC169AA:p0008",
+      "documentId": "PB-2AA72AC4BCC169AA",
+      "pdfPage": 8,
+      "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+      "activeRevision": 2,
+      "revisions": [
+        "PB-2AA72AC4BCC169AA-p0008-v001.json",
+        "PB-2AA72AC4BCC169AA-p0008-v002.json"
+      ]
+    },
+    {
+      "pageId": "PB-2AA72AC4BCC169AA:p0009",
+      "documentId": "PB-2AA72AC4BCC169AA",
+      "pdfPage": 9,
+      "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+      "activeRevision": 2,
+      "revisions": [
+        "PB-2AA72AC4BCC169AA-p0009-v001.json",
+        "PB-2AA72AC4BCC169AA-p0009-v002.json"
+      ]
+    },
+    {
+      "pageId": "PB-2AA72AC4BCC169AA:p0010",
+      "documentId": "PB-2AA72AC4BCC169AA",
+      "pdfPage": 10,
+      "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+      "activeRevision": 2,
+      "revisions": [
+        "PB-2AA72AC4BCC169AA-p0010-v001.json",
+        "PB-2AA72AC4BCC169AA-p0010-v002.json"
+      ]
+    },
+    {
+      "pageId": "PB-B077EA633FFBFD29:p0005",
+      "documentId": "PB-B077EA633FFBFD29",
+      "pdfPage": 5,
+      "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+      "activeRevision": 2,
+      "revisions": [
+        "PB-B077EA633FFBFD29-p0005-v001.json",
+        "PB-B077EA633FFBFD29-p0005-v002.json"
+      ]
+    },
+    {
+      "pageId": "PB-B077EA633FFBFD29:p0019",
+      "documentId": "PB-B077EA633FFBFD29",
+      "pdfPage": 19,
+      "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+      "activeRevision": 2,
+      "revisions": [
+        "PB-B077EA633FFBFD29-p0019-v001.json",
+        "PB-B077EA633FFBFD29-p0019-v002.json"
+      ]
+    },
+    {
+      "pageId": "PB-B077EA633FFBFD29:p0020",
+      "documentId": "PB-B077EA633FFBFD29",
+      "pdfPage": 20,
+      "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+      "activeRevision": 2,
+      "revisions": [
+        "PB-B077EA633FFBFD29-p0020-v001.json",
+        "PB-B077EA633FFBFD29-p0020-v002.json"
+      ]
+    },
+    {
+      "pageId": "PB-B077EA633FFBFD29:p0021",
+      "documentId": "PB-B077EA633FFBFD29",
+      "pdfPage": 21,
+      "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+      "activeRevision": 2,
+      "revisions": [
+        "PB-B077EA633FFBFD29-p0021-v001.json",
+        "PB-B077EA633FFBFD29-p0021-v002.json"
+      ]
+    },
+    {
+      "pageId": "PB-B077EA633FFBFD29:p0053",
+      "documentId": "PB-B077EA633FFBFD29",
+      "pdfPage": 53,
+      "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+      "activeRevision": 2,
+      "revisions": [
+        "PB-B077EA633FFBFD29-p0053-v001.json",
+        "PB-B077EA633FFBFD29-p0053-v002.json"
+      ]
+    }
+  ]
+}

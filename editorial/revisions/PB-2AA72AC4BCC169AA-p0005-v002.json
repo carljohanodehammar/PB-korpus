@@ -1,0 +1,609 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-2AA72AC4BCC169AA:p0005",
+  "documentId": "PB-2AA72AC4BCC169AA",
+  "pdfPage": 5,
+  "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+  "rawTextSha256": "a897376c24d6f3d811ab2799722bf1fc02a404f62b7c32bd8c8c7172b5965f91",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": null,
+      "basis": "Inget tryckt sidnummer synligt; ingen numrering antagen"
+    },
+    {
+      "segment": 1,
+      "printedPage": null,
+      "basis": "Inget tryckt sidnummer synligt; ingen numrering antagen"
+    }
+  ],
+  "notes": [],
+  "revision": 2,
+  "parentRevision": 1,
+  "status": "proofread",
+  "segments": [
+    "STOCKHOLM\nHASSE W. TULLBERGS BOKTRYCKERI\n1903",
+    "FÖRETAL.\n\nRedan de första åren på 1800-talet klagades inom Par Bricole öfver saknaden af en handbok, der upplysningar kunde hemtas om de gångna generationerna af ordensbröder. Visserligen upprättades derefter med långa mellanrum specialmatriklar och 1852 togs det stora steget till årliga, tryckta matriklar, men den äldsta tidens personhistoria blef dock oskrifven. Det var för att söka fylla detta behof jag, i egenskap af ordensarkivarie, vid det nya seklets ingång började förberedelserna till den bok, som nu föreligger färdig. Till stomme har tagits den äldsta allmänna ordensmatrikeln, omfattande tiden intill 1808 års utgång. Arkivets rika samling af äldre tal, årsberättelser, visor, protokoll m. m. har genomgåtts, Kexéls anteckningar rådfrågats och Fredrik af Wannqvists sakrika uppsatser iakttagits.\n\nDe i matriklarne hemtade uppgifterna om ledamöternas förnamn, yrke, födelse- och dödsdata m. m. hafva befunnits i stort behof af kontroll och komplettering. I dessa afseenden hafva tre i personhistorisk forskning erfarna ordensbröder benäget lemnat biträde, nämligen f. d. Justitierådet och Kommendören J. O. Wedberg, Med. Doktoren Alfred Levertin och Skriftställaren Birger Schöldström, hvarjemte de två sistnämnda läst korrekturet och deri gjort månget värdefullt"
+  ],
+  "passages": [
+    {
+      "id": "E-K05-ARKIV",
+      "text": "ordensarkivarie",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K05-MATRIKEL",
+      "text": "Till stomme har tagits den äldsta allmänna ordensmatrikeln, omfattande tiden intill 1808 års utgång.",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K05-WEDBERG",
+      "text": "J. O. Wedberg",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K05-LEVERTIN",
+      "text": "Alfred Levertin",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K05-SCHOLDSTROM",
+      "text": "Birger Schöldström",
+      "reviewStatus": "checked-against-image"
+    }
+  ],
+  "unresolved": [],
+  "changeReason": "Tryckt löptext och noter transkriberade och jämförda med sidbilden; äldre stavning bevarad",
+  "textSha256": "8c596d072ebb209655ac042ed55d8fd9056c9bae3a861350d2e49871e074f71c",
+  "changes": [
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        0,
+        0
+      ],
+      "editedWordRange": [
+        0,
+        6
+      ],
+      "before": "",
+      "after": "STOCKHOLM HASSE W. TULLBERGS BOKTRYCKERI 1903"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        3,
+        4
+      ],
+      "editedWordRange": [
+        9,
+        10
+      ],
+      "before": "forsta",
+      "after": "första"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        11,
+        12
+      ],
+      "editedWordRange": [
+        17,
+        18
+      ],
+      "before": "ofver",
+      "after": "öfver"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        15,
+        16
+      ],
+      "editedWordRange": [
+        21,
+        22
+      ],
+      "before": "!tandbok,",
+      "after": "handbok,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        18,
+        20
+      ],
+      "editedWordRange": [
+        24,
+        26
+      ],
+      "before": "kl/Ilde I/emtas",
+      "after": "kunde hemtas"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        26,
+        28
+      ],
+      "editedWordRange": [
+        32,
+        33
+      ],
+      "before": "Vz'sser- ligC1l",
+      "after": "Visserligen"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        29,
+        30
+      ],
+      "editedWordRange": [
+        34,
+        35
+      ],
+      "before": ".del'efter",
+      "after": "derefter"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        32,
+        36
+      ],
+      "editedWordRange": [
+        37,
+        40
+      ],
+      "before": "mellanrllm speciallllatrik- lar ocJt",
+      "after": "mellanrum specialmatriklar och"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        49,
+        50
+      ],
+      "editedWordRange": [
+        53,
+        54
+      ],
+      "before": "personltistol'ia",
+      "after": "personhistoria"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        52,
+        53
+      ],
+      "editedWordRange": [
+        56,
+        57
+      ],
+      "before": "oskrif1.1C1l.",
+      "after": "oskrifven."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        54,
+        59
+      ],
+      "editedWordRange": [
+        58,
+        62
+      ],
+      "before": "STOCKHOLM Val' for alt sö/~a",
+      "after": "var för att söka"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        61,
+        62
+      ],
+      "editedWordRange": [
+        64,
+        65
+      ],
+      "before": "be/tOf",
+      "after": "behof"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        66,
+        72
+      ],
+      "editedWordRange": [
+        69,
+        70
+      ],
+      "before": "ordens- HASSE W. TULLBERGS BOKTRYCKERI arki71arie,",
+      "after": "ordensarkivarie,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        78,
+        79
+      ],
+      "editedWordRange": [
+        76,
+        77
+      ],
+      "before": "forberedelserna",
+      "after": "förberedelserna"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        80,
+        81
+      ],
+      "editedWordRange": [
+        78,
+        79
+      ],
+      "before": "dm",
+      "after": "den"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        82,
+        86
+      ],
+      "editedWordRange": [
+        80,
+        84
+      ],
+      "before": "SOIll IlIt fOI\"eligger färdzg.",
+      "after": "som nu föreligger färdig."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        87,
+        89
+      ],
+      "editedWordRange": [
+        85,
+        87
+      ],
+      "before": "stOl/III/e Ilar",
+      "after": "stomme har"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        93,
+        94
+      ],
+      "editedWordRange": [
+        91,
+        92
+      ],
+      "before": "ordmslllatrikebl,",
+      "after": "ordensmatrikeln,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        95,
+        96
+      ],
+      "editedWordRange": [
+        93,
+        94
+      ],
+      "before": "tidcll",
+      "after": "tiden"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        98,
+        103
+      ],
+      "editedWordRange": [
+        96,
+        101
+      ],
+      "before": "ån litgång. Arki\"<'ets l'ika salllling",
+      "after": "års utgång. Arkivets rika samling"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        107,
+        108
+      ],
+      "editedWordRange": [
+        105,
+        106
+      ],
+      "before": "1,isor,",
+      "after": "visor,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        109,
+        114
+      ],
+      "editedWordRange": [
+        107,
+        112
+      ],
+      "before": "III. 111. !tar genoIIIgåtts, Kexds",
+      "after": "m. m. har genomgåtts, Kexéls"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        116,
+        118
+      ],
+      "editedWordRange": [
+        114,
+        116
+      ],
+      "before": "oclt Fredrz'k",
+      "after": "och Fredrik"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        119,
+        120
+      ],
+      "editedWordRange": [
+        117,
+        118
+      ],
+      "before": "Wamzqvists",
+      "after": "Wannqvists"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        121,
+        122
+      ],
+      "editedWordRange": [
+        119,
+        120
+      ],
+      "before": "IIppsatser",
+      "after": "uppsatser"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        123,
+        125
+      ],
+      "editedWordRange": [
+        121,
+        122
+      ],
+      "before": "D c",
+      "after": "De"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        126,
+        128
+      ],
+      "editedWordRange": [
+        123,
+        125
+      ],
+      "before": "matrik/arne I/cllltade",
+      "after": "matriklarne hemtade"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        130,
+        135
+      ],
+      "editedWordRange": [
+        127,
+        132
+      ],
+      "before": "ledalllötenws forlla1JlIt, yrke. fodelse- oclt",
+      "after": "ledamöternas förnamn, yrke, födelse- och"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        136,
+        140
+      ],
+      "editedWordRange": [
+        133,
+        137
+      ],
+      "before": "1Il. 1//. ltaf\"<'a befunllits",
+      "after": "m. m. hafva befunnits"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        142,
+        143
+      ],
+      "editedWordRange": [
+        139,
+        140
+      ],
+      "before": "be/LOf",
+      "after": "behof"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        146,
+        148
+      ],
+      "editedWordRange": [
+        143,
+        145
+      ],
+      "before": "k01llplettering. l",
+      "after": "komplettering. I"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        149,
+        151
+      ],
+      "editedWordRange": [
+        146,
+        148
+      ],
+      "before": "afscC1ldm Itaf1'a",
+      "after": "afseenden hafva"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        153,
+        154
+      ],
+      "editedWordRange": [
+        150,
+        151
+      ],
+      "before": "persolll/istoris/~",
+      "after": "personhistorisk"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        156,
+        157
+      ],
+      "editedWordRange": [
+        153,
+        154
+      ],
+      "before": "ordtIIsbröder",
+      "after": "ordensbröder"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        158,
+        159
+      ],
+      "editedWordRange": [
+        155,
+        156
+      ],
+      "before": "Immat",
+      "after": "lemnat"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        160,
+        161
+      ],
+      "editedWordRange": [
+        157,
+        158
+      ],
+      "before": "nämligm",
+      "after": "nämligen"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        164,
+        167
+      ],
+      "editedWordRange": [
+        161,
+        163
+      ],
+      "before": "oclt KOIll- 111endören",
+      "after": "och Kommendören"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        169,
+        175
+      ],
+      "editedWordRange": [
+        165,
+        171
+      ],
+      "before": "TVedberg, l/tlcd. Doktorm Alfl'ed Le11ertin Ocll",
+      "after": "Wedberg, Med. Doktoren Alfred Levertin och"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        177,
+        180
+      ],
+      "editedWordRange": [
+        173,
+        176
+      ],
+      "before": "ScltöldströlII. Iwaljelllte dc",
+      "after": "Schöldström, hvarjemte de"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        181,
+        183
+      ],
+      "editedWordRange": [
+        177,
+        178
+      ],
+      "before": "sist- nälllnda",
+      "after": "sistnämnda"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        184,
+        185
+      ],
+      "editedWordRange": [
+        179,
+        180
+      ],
+      "before": "korrekturc!",
+      "after": "korrekturet"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        189,
+        191
+      ],
+      "editedWordRange": [
+        184,
+        185
+      ],
+      "before": "1I ä/'defllllt",
+      "after": "värdefullt"
+    }
+  ]
+}

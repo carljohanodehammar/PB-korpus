@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-05T16:34:34.754511+00:00",
+  "policy": "Sex visuella stickprov; inget representativt statistiskt urval och inga nya korrekturlästa sidor",
+  "pages": [
+    {
+      "documentId": "PB-1422537DCB1B9027",
+      "pdfPage": 2,
+      "sourceSha256": "1422537dcb1b90275e06b171bbd97825b6dcf5c5dfe3b76a63cff70077f8ee5f",
+      "imageSha256": "d680dfb8c6a1adda14da3b34d07a7312f1a2a5922429b4030a9b99bf4224b7e6",
+      "confidence": 93.01,
+      "kind": "printed-multicolumn",
+      "note": "Användbar löptext. Minnesfesten blir Minnestesten och gåsmiddagen blir gäsmiddagen. Annonstext och illustrationer stör läsordningen; sidan är inte korrekturläst.",
+      "status": "visual-sample-not-proofreading",
+      "candidateVersion": "tesseract-best-v2",
+      "statisticsParser": "tsv-quote-none-v1"
+    },
+    {
+      "documentId": "PB-2F363B3D4BB42055",
+      "pdfPage": 3,
+      "sourceSha256": "2f363b3d4bb42055966c0f09fadb0ce77a597036f66b8eb54abca5ee740cdae7",
+      "imageSha256": "dfc63bc6ac7b3f1c321d970c7741579ea65c36c9557be592fdc90dd237af8304",
+      "confidence": 23.37,
+      "kind": "handwritten-flyleaf",
+      "note": "Handskrivet försättsblad. Kandidaten är oanvändbar och ska inte väljas som söktext.",
+      "status": "visual-sample-not-proofreading",
+      "candidateVersion": "tesseract-best-v2",
+      "statisticsParser": "tsv-quote-none-v1; prior row counts checked"
+    },
+    {
+      "documentId": "PB-2B9FD909245A77C2",
+      "pdfPage": 3,
+      "sourceSha256": "2b9fd909245a77c2339fd29f8393fee87bfa1b880c4ddf7f799d4744b1885a7f",
+      "imageSha256": "00e58b3f08acd8af28b456be8c7507546bff059ec1923cbc2250ec4baf7668ba",
+      "confidence": 6.04,
+      "kind": "cover",
+      "note": "Bokomslag utan läsbar löptext. OCR ger få nonsensord; kandidaten ska inte väljas som söktext.",
+      "status": "visual-sample-not-proofreading",
+      "candidateVersion": "tesseract-best-v2",
+      "statisticsParser": "tsv-quote-none-v1; prior row counts checked"
+    },
+    {
+      "documentId": "PB-2F363B3D4BB42055",
+      "pdfPage": 8,
+      "sourceSha256": "2f363b3d4bb42055966c0f09fadb0ce77a597036f66b8eb54abca5ee740cdae7",
+      "imageSha256": "51f43c9cb5f05d8daef9c8dd558bc6ba47f25b2116d27a4f3b429ae0b3bffc65",
+      "confidence": 83.62,
+      "kind": "printed-old-type",
+      "note": "Äldre latinsk tryckstil med långt s. Kandidaten innehåller f-läsningar av långt s. Rättad statistik ger 175 ord och 83,62 i säkerhetsvärde; ett tidigare citatteckenfel gav missvisande värden. Sidan är inte korrekturläst.",
+      "status": "visual-sample-not-proofreading",
+      "candidateVersion": "tesseract-best-v2",
+      "statisticsParser": "tsv-quote-none-v1"
+    },
+    {
+      "documentId": "PB-2B9FD909245A77C2",
+      "pdfPage": 20,
+      "sourceSha256": "2b9fd909245a77c2339fd29f8393fee87bfa1b880c4ddf7f799d4744b1885a7f",
+      "imageSha256": "ececb102f9aa3761b13b6b1af0599cd74801e53c6cd7e0a771864f747db202a4",
+      "confidence": 91.92,
+      "kind": "printed-prose",
+      "note": "Löptexten är till stor del användbar. Bokbindningskanten ger skräptecken och namn som Hæffner återges fel. Sidan är inte korrekturläst.",
+      "status": "visual-sample-not-proofreading",
+      "candidateVersion": "tesseract-best-v2",
+      "statisticsParser": "tsv-quote-none-v1; prior row counts checked"
+    },
+    {
+      "documentId": "PB-D47A38916535C329",
+      "pdfPage": 40,
+      "sourceSha256": "d47a38916535c329c01391eda19aa4f9922e9934f8c478a40a0011d396ca2e15",
+      "imageSha256": "156a94751e9583eb8fc3fa99aac998ad355a89d70add8a68e2f870c9d24aef11",
+      "confidence": 82.72,
+      "kind": "printed-verse-and-marginalia",
+      "note": "Vers och marginalanvisningar påverkar läsordningen; långt s kan bli f. Ny OCR fyller ett tidigare tomt textlager men måste kontrolleras före citat.",
+      "status": "visual-sample-not-proofreading",
+      "candidateVersion": "tesseract-best-v2",
+      "statisticsParser": "tsv-quote-none-v1"
+    }
+  ]
+}

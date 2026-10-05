@@ -1,0 +1,1100 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-2AA72AC4BCC169AA:p0010",
+  "documentId": "PB-2AA72AC4BCC169AA",
+  "pdfPage": 10,
+  "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+  "rawTextSha256": "92e07f3636c2426c820206c9b1e39518b317723a6655d04a5db7c32545fa9126",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [
+    "4",
+    "5"
+  ],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": "4",
+      "basis": "Synlig sidnumrering i sidbild"
+    },
+    {
+      "segment": 1,
+      "printedPage": "5",
+      "basis": "Synlig sidnumrering i sidbild"
+    }
+  ],
+  "notes": [
+    "R. G. K. återges enligt trycket. Bokens rättelselista på PDF-sida 6 anger R. S. K. för denna plats."
+  ],
+  "revision": 2,
+  "parentRevision": 1,
+  "status": "proofread",
+  "segments": [
+    "4\n3. CEDERSTEDT, JONAS, till Sundsör.\nKanslist i Bergskollegium med titel vid afskedstagandet 1783 af Bergsråd. Sedan verksam som kommunalman och politiker. F. 17 mars 1756 i Södermanland, † 9 dec. 1811 i Norrköping.\n\nC. var känd som stor ordensvurm och räknades — liksom äfven Barnekow och Oldenburg — bland Frimurarne innan han 1778 intogs i P. B. »genom ordentlig reception i gamla Commendeursgraden» — på sätt han sjelf berättat. Det var synbarligen Kexél, som pådref hans inträde, ty han behöfde den rutinerade ordenskännaren för den stundande reorganisationen och utvidgningen. C. blef sålunda en af P. B:s äldste »gouverneurer» och utnämndes till Riddare af Bricoleriet näst efter de två föregående. Efter Kexéls död, då P. B. skulle ytterligare utvidgas med en högre afdelning, var Cederstedt den som ledde organisationsarbetet och författade de tre högsta riddargradernas ritualer samt 25 sept. 1799 tillträdde det nyinrättade Stormästareembetet, som han bibehöll till sin död.\n\nNågot egentligt porträtt af denne brikolchef finnes icke, endast den här reproducerade karrikatyren från sekelskiftet.\n\n»Cederstedt hade lyckliga naturgåfvor, var fintlig att se Dårskapen, dristig att röja henne, skicklig att framställa henne i hela sin Caricaturiska vidunderlighet, var mägtigt verksam att sprida detta löje, i synnerhet som hans meddelande lynne öppnade för honom alla kretsar, dit han i de höga medförde en otvungen öppenhjertighet, i de lägre ett språk, alltid lämpadt efter dem, som omgåfvo honom.»\nBomans minnestal.",
+    "5\n4. STIERNECRANTZ, GUSTAV (FABIAN).\nCapitain. F. 5 febr. 1751 i Stockholm, † derst. 29 juli 1800.\n\n»En carolin Arved Stiernecrantz återkom från rysk fångenskap 1722 med en son vid sin hand», berättar en gammal urkund. Denne gosse, Christer Adrian, blef Bankokommissarie och gift med dottern till en brukspatron i Vermland, hvilket landskap äfven var ätten Stiernecrantz’ stamhåll. I detta äktenskap föddes sönerna Gustav och Arvid, båda officerare och sannskyldige Bellmanianer. Den äldre af dem, »det glada, kvicka skämtets banérförare», Gustaf Stiernecrantz, inskrefs i matrikeln 11 nov. 1779 som »Gouverneur och Riddare af Bricoleriet» och kallades några veckor senare till det nyorganiserade P. B:s G. Ordförande. Synbarligen hade han långt förut deltagit i Bricolekotteriet. Vid tilltagande sjuklighet och fattigdom lemnade han 1784 chefskapet till gulddragaren Oldenburg och efter yngre broderns död blef han icke längre deltagare i Sällskapets samkväm. Ätten utslocknade på svärdsidan vid Gustav S:s död.\n\n5 a. DE GEER, JOHAN JACOB, till Finspång.\nFriherre, Kammarherre hos drottning Sofia Magdalena. F. 15 juli 1737 på Finspång i Östergötland, † derst. 13 jan. 1809. Denne framstående konstvän och mecenat inskrefs från början i egenskap af guvernör och upphöjdes efter några år till Riddare af Bricoleriet.\n\n5 b. OXENSTIERNA, JOHAN GABRIEL.\nGrefve, Kammarherre hos Gustaf III (Riksmarskalk, En af Svenska Akademien m. m.). F. 4 juli 1750 i Södermanland, † 29 juli 1818 i Stockholm.\n\nSkalden deltog i Barbarafesten 1779 och bekläddes dervid med guvernörsbandet, men syntes icke åter i Sällskapet förr än vid riddarekapitlet 29 april 1804, då han vid middagsmåltiden högtidligen utfäste sig att blifva en nitisk ordensbroder och höll sitt löfte på sådant sätt, att han tio år senare dubbades till R. G. K."
+  ],
+  "passages": [
+    {
+      "id": "E-K10-CEDERSTEDT",
+      "text": "3. CEDERSTEDT, JONAS, till Sundsör.",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K10-COMM",
+      "text": "genom ordentlig reception i gamla Commendeursgraden",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K10-STOR",
+      "text": "25 sept. 1799 tillträdde det nyinrättade Stormästareembetet",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K10-GUSTAV",
+      "text": "4. STIERNECRANTZ, GUSTAV (FABIAN).",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K10-DEGEER",
+      "text": "5 a. DE GEER, JOHAN JACOB, till Finspång.",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K10-OXENSTIERNA",
+      "text": "5 b. OXENSTIERNA, JOHAN GABRIEL.",
+      "reviewStatus": "checked-against-image"
+    }
+  ],
+  "unresolved": [],
+  "changeReason": "Tryckt löptext och noter transkriberade och jämförda med sidbilden; äldre stavning bevarad",
+  "textSha256": "e385aa97dc8b9ce43db81a62983e3658075512d826064460f7342f8b78165e4a",
+  "changes": [
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        0,
+        1
+      ],
+      "editedWordRange": [
+        0,
+        1
+      ],
+      "before": "-5-",
+      "after": "4"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        2,
+        4
+      ],
+      "editedWordRange": [
+        2,
+        3
+      ],
+      "before": "C EDERSTEDT,",
+      "after": "CEDERSTEDT,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        6,
+        15
+      ],
+      "editedWordRange": [
+        5,
+        7
+      ],
+      "before": "Sund~ör . . 4. STIERNECRANTZ, G USTAV (FABlAN). Kauslist",
+      "after": "Sundsör. Kanslist"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        19,
+        21
+      ],
+      "editedWordRange": [
+        11,
+        13
+      ],
+      "before": "vId afskedstag~~det",
+      "after": "vid afskedstagandet"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        23,
+        25
+      ],
+      "editedWordRange": [
+        15,
+        16
+      ],
+      "before": "B åd",
+      "after": "Bergsråd."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        30,
+        31
+      ],
+      "editedWordRange": [
+        21,
+        22
+      ],
+      "before": "pohtlker.",
+      "after": "politiker."
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        33,
+        49
+      ],
+      "editedWordRange": [
+        24,
+        24
+      ],
+      "before": "Capitain. F. 5 febr . 175 1 i Stockholm, -r derst. 29 juli 1800. ergsr .",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        52,
+        54
+      ],
+      "editedWordRange": [
+        27,
+        29
+      ],
+      "before": "Södermanland -r",
+      "after": "Södermanland, †"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        56,
+        60
+      ],
+      "editedWordRange": [
+        31,
+        32
+      ],
+      "before": "I S [ I",
+      "after": "1811"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        61,
+        62
+      ],
+      "editedWordRange": [
+        33,
+        34
+      ],
+      "before": "orrköping:",
+      "after": "Norrköping."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        63,
+        64
+      ],
+      "editedWordRange": [
+        35,
+        36
+      ],
+      "before": "\"ar",
+      "after": "var"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        67,
+        70
+      ],
+      "editedWordRange": [
+        39,
+        40
+      ],
+      "before": "or. den vurm",
+      "after": "ordensvurm"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        72,
+        73
+      ],
+      "editedWordRange": [
+        42,
+        43
+      ],
+      "before": "_",
+      "after": "—"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        74,
+        75
+      ],
+      "editedWordRange": [
+        44,
+        45
+      ],
+      "before": "äh'en",
+      "after": "äfven"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        78,
+        79
+      ],
+      "editedWordRange": [
+        48,
+        49
+      ],
+      "before": "-",
+      "after": "—"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        80,
+        82
+      ],
+      "editedWordRange": [
+        50,
+        51
+      ],
+      "before": "Frimu- rarne",
+      "after": "Frimurarne"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        83,
+        86
+      ],
+      "editedWordRange": [
+        52,
+        53
+      ],
+      "before": "h a n",
+      "after": "han"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        91,
+        93
+      ],
+      "editedWordRange": [
+        58,
+        59
+      ],
+      "before": ". genom",
+      "after": "»genom"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        97,
+        101
+      ],
+      "editedWordRange": [
+        63,
+        65
+      ],
+      "before": "Commen- deursgraden . -",
+      "after": "Commendeursgraden» —"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        103,
+        105
+      ],
+      "editedWordRange": [
+        67,
+        68
+      ],
+      "before": "h an",
+      "after": "han"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        106,
+        108
+      ],
+      "editedWordRange": [
+        69,
+        70
+      ],
+      "before": "berä ttat.",
+      "after": "berättat."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        110,
+        120
+      ],
+      "editedWordRange": [
+        72,
+        74
+      ],
+      "before": "syn- . En carolin Arved Stiernecrantz å ter- barligen Kexel,",
+      "after": "synbarligen Kexél,"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        122,
+        144
+      ],
+      "editedWordRange": [
+        76,
+        76
+      ],
+      "before": "kom från r ysk fån genskap 1722 m ed en so n vi d sin h an d ., berättar en ga1l1mal",
+      "after": ""
+    },
+    {
+      "operation": "insert",
+      "rawWordRange": [
+        149,
+        149
+      ],
+      "editedWordRange": [
+        81,
+        263
+      ],
+      "before": "",
+      "after": "den rutinerade ordenskännaren för den stundande reorganisationen och utvidgningen. C. blef sålunda en af P. B:s äldste »gouverneurer» och utnämndes till Riddare af Bricoleriet näst efter de två föregående. Efter Kexéls död, då P. B. skulle ytterligare utvidgas med en högre afdelning, var Cederstedt den som ledde organisationsarbetet och författade de tre högsta riddargradernas ritualer samt 25 sept. 1799 tillträdde det nyinrättade Stormästareembetet, som han bibehöll till sin död. Något egentligt porträtt af denne brikolchef finnes icke, endast den här reproducerade karrikatyren från sekelskiftet. »Cederstedt hade lyckliga naturgåfvor, var fintlig att se Dårskapen, dristig att röja henne, skicklig att framställa henne i hela sin Caricaturiska vidunderlighet, var mägtigt verksam att sprida detta löje, i synnerhet som hans meddelande lynne öppnade för honom alla kretsar, dit han i de höga medförde en otvungen öppenhjertighet, i de lägre ett språk, alltid lämpadt efter dem, som omgåfvo honom.» Bomans minnestal. 5 4. STIERNECRANTZ, GUSTAV (FABIAN). Capitain. F. 5 febr. 1751 i Stockholm, † derst. 29 juli 1800. »En carolin Arved Stiernecrantz återkom från rysk fångenskap 1722 med en son vid sin hand», berättar en gammal"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        155,
+        158
+      ],
+      "editedWordRange": [
+        269,
+        269
+      ],
+      "before": "den rutinerade ordenskänna-",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        160,
+        162
+      ],
+      "editedWordRange": [
+        271,
+        272
+      ],
+      "before": "gi ft",
+      "after": "gift"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        164,
+        170
+      ],
+      "editedWordRange": [
+        274,
+        274
+      ],
+      "before": "ren för den stunda nde reor-",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        174,
+        182
+      ],
+      "editedWordRange": [
+        278,
+        280
+      ],
+      "before": "Verruland, hvilk et gan isationen och u tvidgnin-",
+      "after": "Vermland, hvilket"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        185,
+        200
+      ],
+      "editedWordRange": [
+        283,
+        287
+      ],
+      "before": "ä tten Stiernecrantz' gen. C. blef sålunda en af s tam h å ll. r",
+      "after": "ätten Stiernecrantz’ stamhåll. I"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        203,
+        212
+      ],
+      "editedWordRange": [
+        290,
+        291
+      ],
+      "before": "sö- P. B:s äldste • gou verneurer . nerna",
+      "after": "sönerna"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        214,
+        215
+      ],
+      "editedWordRange": [
+        293,
+        294
+      ],
+      "before": "Arvid.",
+      "after": "Arvid,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        218,
+        230
+      ],
+      "editedWordRange": [
+        297,
+        299
+      ],
+      "before": "utnämndes till Riddar e af och sa nns k yldi ge Bellruanianer.",
+      "after": "sannskyldige Bellmanianer."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        231,
+        239
+      ],
+      "editedWordRange": [
+        300,
+        301
+      ],
+      "before": "ä ldre Bricoleriet näst efter de h 'å",
+      "after": "äldre"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        241,
+        243
+      ],
+      "editedWordRange": [
+        303,
+        304
+      ],
+      "before": ". det",
+      "after": "»det"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        246,
+        254
+      ],
+      "editedWordRange": [
+        307,
+        308
+      ],
+      "before": "ba- föregående. Efter Kexels död, nerförare . ,",
+      "after": "banérförare»,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        255,
+        265
+      ],
+      "editedWordRange": [
+        309,
+        311
+      ],
+      "before": "Sliernecrantz, insk refs då P . B. skulle ytterligare utvid·",
+      "after": "Stiernecrantz, inskrefs"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        267,
+        269
+      ],
+      "editedWordRange": [
+        313,
+        314
+      ],
+      "before": "I I",
+      "after": "11"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        272,
+        282
+      ],
+      "editedWordRange": [
+        317,
+        318
+      ],
+      "before": ".Gou\\·ern e ur gas med en h ögre afdelnin g,",
+      "after": "»Gouverneur"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        283,
+        285
+      ],
+      "editedWordRange": [
+        319,
+        320
+      ],
+      "before": "Ridda re",
+      "after": "Riddare"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        286,
+        287
+      ],
+      "editedWordRange": [
+        321,
+        322
+      ],
+      "before": "Bricoleriet.",
+      "after": "Bricoleriet»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        288,
+        295
+      ],
+      "editedWordRange": [
+        323,
+        324
+      ],
+      "before": "kall ades var Cederstedt den som ledde",
+      "after": "kallades"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        300,
+        307
+      ],
+      "editedWordRange": [
+        329,
+        330
+      ],
+      "before": "nyorganise- organisa ti onsarbetet och för- rade",
+      "after": "nyorganiserade"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        312,
+        325
+      ],
+      "editedWordRange": [
+        335,
+        338
+      ],
+      "before": "fattade de tre högsta riddar- h ade h an lå n g t",
+      "after": "hade han långt"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        328,
+        335
+      ],
+      "editedWordRange": [
+        341,
+        342
+      ],
+      "before": "Bricole- gradernas ritualer sam t 25 kotteriet.",
+      "after": "Bricolekotteriet."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        337,
+        341
+      ],
+      "editedWordRange": [
+        344,
+        345
+      ],
+      "before": "sj ukli g het",
+      "after": "sjuklighet"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        342,
+        347
+      ],
+      "editedWordRange": [
+        346,
+        346
+      ],
+      "before": "sept. 1799 tillträdde det ny-",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        349,
+        357
+      ],
+      "editedWordRange": [
+        348,
+        351
+      ],
+      "before": "h an I 7~4 chefsk apet inrättade Stormästareembetet,",
+      "after": "han 1784 chefskapet"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        358,
+        360
+      ],
+      "editedWordRange": [
+        352,
+        353
+      ],
+      "before": "g ulddragaren",
+      "after": "gulddragaren"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        361,
+        362
+      ],
+      "editedWordRange": [
+        354,
+        355
+      ],
+      "before": "ocll",
+      "after": "och"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        363,
+        372
+      ],
+      "editedWordRange": [
+        356,
+        357
+      ],
+      "before": "/cu(flvfojj- som han bibehöll till sin död. y ngre",
+      "after": "yngre"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        375,
+        378
+      ],
+      "editedWordRange": [
+        360,
+        361
+      ],
+      "before": "h a n",
+      "after": "han"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        383,
+        385
+      ],
+      "editedWordRange": [
+        366,
+        367
+      ],
+      "before": "samkvä m.",
+      "after": "samkväm."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        390,
+        392
+      ],
+      "editedWordRange": [
+        372,
+        373
+      ],
+      "before": "Gus tav",
+      "after": "Gustav"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        395,
+        397
+      ],
+      "editedWordRange": [
+        376,
+        377
+      ],
+      "before": "a .",
+      "after": "a."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        402,
+        407
+      ],
+      "editedWordRange": [
+        382,
+        384
+      ],
+      "before": "Fius p å ng. Friherre",
+      "after": "Finspång. Friherre,"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        414,
+        421
+      ],
+      "editedWordRange": [
+        391,
+        391
+      ],
+      "before": ". Tågo t egentligt porträtt af denne",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        424,
+        426
+      ],
+      "editedWordRange": [
+        394,
+        395
+      ],
+      "before": "Finspån g",
+      "after": "Finspång"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        428,
+        429
+      ],
+      "editedWordRange": [
+        397,
+        398
+      ],
+      "before": "-;-",
+      "after": "†"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        431,
+        435
+      ],
+      "editedWordRange": [
+        400,
+        401
+      ],
+      "before": "j a n .",
+      "after": "jan."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        437,
+        444
+      ],
+      "editedWordRange": [
+        403,
+        404
+      ],
+      "before": "fram- bnko1chef finnes icke endast den stående",
+      "after": "framstående"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        449,
+        450
+      ],
+      "editedWordRange": [
+        409,
+        410
+      ],
+      "before": "böljan",
+      "after": "början"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        453,
+        459
+      ],
+      "editedWordRange": [
+        413,
+        414
+      ],
+      "before": "gu- här reproducerade ka\";ikatyren från vernör",
+      "after": "guvernör"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        461,
+        463
+      ],
+      "editedWordRange": [
+        416,
+        417
+      ],
+      "before": "eft er",
+      "after": "efter"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        468,
+        476
+      ],
+      "editedWordRange": [
+        422,
+        423
+      ],
+      "before": "Bricoleri et. sekelskiftet. . Cederstedt hade lYCkliga na-",
+      "after": "Bricoleriet."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        478,
+        480
+      ],
+      "editedWordRange": [
+        425,
+        426
+      ],
+      "before": "O XENSTIERNA,",
+      "after": "OXENSTIERNA,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        481,
+        489
+      ],
+      "editedWordRange": [
+        427,
+        428
+      ],
+      "before": "G ABRIEL. turgåfvor, var fintlig att se Där-",
+      "after": "GABRIEL."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        494,
+        496
+      ],
+      "editedWordRange": [
+        433,
+        434
+      ],
+      "before": "(Riksmarsk alk,",
+      "after": "(Riksmarskalk,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        498,
+        520
+      ],
+      "editedWordRange": [
+        436,
+        440
+      ],
+      "before": "Sven- sk~pe~, dristig att röija henne, s~ l ckhg att framställ a henne i hela ska Akad emien 111 . m .).",
+      "after": "Svenska Akademien m. m.)."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        526,
+        527
+      ],
+      "editedWordRange": [
+        446,
+        447
+      ],
+      "before": "-r",
+      "after": "†"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        530,
+        533
+      ],
+      "editedWordRange": [
+        450,
+        450
+      ],
+      "before": "SIO Caricaturiska vidunderlighet",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        534,
+        544
+      ],
+      "editedWordRange": [
+        451,
+        452
+      ],
+      "before": "S tockholm . var mägtigt verksam att sp rid ~",
+      "after": "Stockholm."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        553,
+        566
+      ],
+      "editedWordRange": [
+        461,
+        463
+      ],
+      "before": "detta löje, i synnerhet som h ans g t;vern örs bandet, m en",
+      "after": "guvernörsbandet, men"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        574,
+        581
+      ],
+      "editedWordRange": [
+        471,
+        472
+      ],
+      "before": "riddare- meddelande lynne öpnade för honom kapitlet",
+      "after": "riddarekapitlet"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        584,
+        589
+      ],
+      "editedWordRange": [
+        475,
+        477
+      ],
+      "before": "d å h a n",
+      "after": "då han"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        590,
+        605
+      ],
+      "editedWordRange": [
+        478,
+        481
+      ],
+      "before": "middagsm å ltidell h ögtidligen ut- a.~la kretsar, dit han i de höga med- fäste",
+      "after": "middagsmåltiden högtidligen utfäste"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        614,
+        616
+      ],
+      "editedWordRange": [
+        490,
+        491
+      ],
+      "before": "löft e",
+      "after": "löfte"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        618,
+        624
+      ],
+      "editedWordRange": [
+        493,
+        493
+      ],
+      "before": "!orde .~n otvungen öppen hjerti ghet,",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        625,
+        627
+      ],
+      "editedWordRange": [
+        494,
+        495
+      ],
+      "before": "a tt",
+      "after": "att"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        636,
+        651
+      ],
+      "editedWordRange": [
+        504,
+        504
+      ],
+      "before": "I de lagre ett språk, alltid lämpadt efter dem, som omgåfvo honom .• Bomans minnestal.",
+      "after": ""
+    }
+  ]
+}

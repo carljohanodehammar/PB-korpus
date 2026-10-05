@@ -1,0 +1,27 @@
+{
+  "createdAt": "2026-10-05T11:53:42.189221+00:00",
+  "changes": [
+    {
+      "documentId": "PB-2AA72AC4BCC169AA",
+      "pdfPage": 20,
+      "words": 541,
+      "method": "Vänster boksida uppifrån ned, därefter höger; ordpositioner i PDF; visuellt granskat uppslag",
+      "characterCorrections": 0
+    },
+    {
+      "documentId": "PB-2AA72AC4BCC169AA",
+      "pdfPage": 55,
+      "words": 497,
+      "method": "Vänster boksida uppifrån ned, därefter höger; ordpositioner i PDF; visuellt granskat uppslag",
+      "characterCorrections": 0
+    },
+    {
+      "documentId": "PB-B077EA633FFBFD29",
+      "pdfPage": 20,
+      "words": 631,
+      "method": "Vänster boksida uppifrån ned, därefter höger; ordpositioner i PDF; visuellt granskat uppslag",
+      "characterCorrections": 0
+    }
+  ],
+  "scope": "Endast tre granskade uppslag; råtext bevarad; inga tecken rättade"
+}

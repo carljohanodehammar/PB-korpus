@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-05T20:23:21.985873+00:00",
+  "status": "passed",
+  "scope": "Webbläsartest av den slutliga lokala webbexporten",
+  "results": [
+    {
+      "test": "PDF-korpusens täckning",
+      "documents": 220,
+      "pages": 6629,
+      "searchTextPages": 6136
+    },
+    {
+      "test": "Ny maskinell OCR: minnesfest, Avisa 1952",
+      "hits": 2,
+      "label": "ny maskinell OCR · ej korrekturläst"
+    },
+    {
+      "test": "Korrekturläst: Bacchi giftermål",
+      "hits": 1,
+      "pdfPage": 53,
+      "revision": 2
+    },
+    {
+      "test": "Alla PDF-källor: Bacchi",
+      "hits": 595
+    },
+    {
+      "test": "Bellman: exakt fras Bacchi Orden",
+      "hits": 7
+    },
+    {
+      "test": "Interna filhänvisningar",
+      "result": "all present"
+    }
+  ],
+  "limitations": "Tester verifierar sökfunktion och märkning; de mäter inte OCR-textens korrekthet"
+}

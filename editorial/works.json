@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "works": [
+    {
+      "id": "W-PB-HISTORIK-1946",
+      "label": "Sällskapet Par Bricole (1946)",
+      "documentVersions": [
+        "PB-F282252312789CDB"
+      ]
+    },
+    {
+      "id": "W-KINBERG-1903",
+      "label": "Par Bricoles gustavianska period (1903)",
+      "documentVersions": [
+        "PB-2AA72AC4BCC169AA"
+      ]
+    },
+    {
+      "id": "W-HANDLINGAR-1855",
+      "label": "Handlingar ur Sällskapet P.B:s arkiv (1855)",
+      "documentVersions": [
+        "PB-B077EA633FFBFD29"
+      ]
+    },
+    {
+      "id": "W-BARBARATAL-2024",
+      "label": "Utvalda Historiska Barbaratal, 2024 års samling",
+      "documentVersions": [
+        "PB-9DFDA8142FB1DA50"
+      ]
+    }
+  ]
+}

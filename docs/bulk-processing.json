@@ -1,0 +1,965 @@
+{
+  "schemaVersion": 1,
+  "tail": {
+    "schemaVersion": 1,
+    "state": "complete",
+    "startedAt": "2026-10-05T17:36:55.022814+00:00",
+    "updatedAt": "2026-10-05T20:16:53.789482+00:00",
+    "deadline": "2026-10-05T22:15:00+00:00",
+    "planned": 1600,
+    "completed": 1600,
+    "errors": [],
+    "skipped": 0,
+    "elapsedSeconds": 9598.8,
+    "nonempty": 1589
+  },
+  "priorRuns": [
+    {
+      "schemaVersion": 1,
+      "state": "stopped-for-statistics-fix",
+      "startedAt": "2026-10-05T13:44:46.912684+00:00",
+      "updatedAt": "2026-10-05T15:58:47.962435+00:00",
+      "deadline": "2026-10-05T22:15:00+00:00",
+      "planned": 4306,
+      "completed": 1163,
+      "errors": [],
+      "skipped": 0,
+      "elapsedSeconds": 8041.3,
+      "nonempty": 1036,
+      "archivedAt": "2026-10-05T16:03:38.736802+00:00",
+      "reason": "CSV quote handling corrected; original candidates retained"
+    },
+    {
+      "schemaVersion": 1,
+      "completed": 218,
+      "planned": 218,
+      "errors": [],
+      "elapsedSeconds": 2113.8,
+      "updatedAt": "2026-10-05T15:12:34.620742+00:00",
+      "referenceOnly": false,
+      "archivedAt": "2026-10-05T16:03:38.738158+00:00",
+      "reason": "CSV quote handling corrected; original candidates retained",
+      "state": "complete"
+    },
+    {
+      "schemaVersion": 1,
+      "state": "stopped-for-statistics-fix",
+      "startedAt": "2026-10-05T15:24:06.888782+00:00",
+      "updatedAt": "2026-10-05T16:00:10.951962+00:00",
+      "deadline": "2026-10-05T22:15:00+00:00",
+      "planned": 2306,
+      "completed": 229,
+      "errors": [],
+      "skipped": 0,
+      "elapsedSeconds": 2164.1,
+      "nonempty": 229,
+      "archivedAt": "2026-10-05T16:03:38.737593+00:00",
+      "reason": "CSV quote handling corrected; original candidates retained"
+    }
+  ],
+  "updatedAt": "2026-10-05T20:19:42.704484+00:00",
+  "timeBudgetHours": 10,
+  "totals": {
+    "pdfDocuments": 220,
+    "pdfPages": 6629,
+    "rawTextPages": 5158,
+    "searchTextPages": 6136,
+    "processed": 4306,
+    "chosen": 2531,
+    "filled": 978,
+    "lowConfidence": 2147,
+    "remainingWithoutSearchText": 493
+  },
+  "batch": {
+    "schemaVersion": 1,
+    "state": "complete",
+    "startedAt": "2026-10-05T16:04:52.634152+00:00",
+    "updatedAt": "2026-10-05T20:16:46.837860+00:00",
+    "deadline": "2026-10-05T22:15:00+00:00",
+    "planned": 4088,
+    "completed": 4088,
+    "errors": [],
+    "skipped": 0,
+    "elapsedSeconds": 15114.2,
+    "nonempty": 3932
+  },
+  "core": {
+    "version": "core-v4",
+    "available": 218,
+    "planned": 218,
+    "latestRun": {
+      "schemaVersion": 1,
+      "completed": 218,
+      "planned": 218,
+      "errors": [],
+      "elapsedSeconds": 4707.0,
+      "updatedAt": "2026-10-05T17:23:27.240643+00:00",
+      "referenceOnly": false
+    }
+  },
+  "benchmark": {
+    "schemaVersion": 1,
+    "createdAt": "2026-10-05T13:40:11.364877+00:00",
+    "reference": "Tio tidigare visuellt granskade PDF-sidors löptext; AI-assisterat arbetsfacit, ej oberoende dubbelgranskat",
+    "metric": "Levenshtein-ordfel / referensord; gemener, ordtoken utan interpunktion; illustrationer/signaturer kan ge extra OCR-ord",
+    "referenceWords": 3293,
+    "rawWordErrorRate": 0.9006984512602491,
+    "methods": [
+      {
+        "psm": 3,
+        "wordErrorRate": 0.09474643182508351,
+        "elapsedSeconds": 67.32
+      },
+      {
+        "psm": 6,
+        "wordErrorRate": 0.17643486182812027,
+        "elapsedSeconds": 73.8
+      }
+    ],
+    "elapsedSeconds": 72.5214181249903,
+    "pages": [
+      {
+        "documentId": "PB-2AA72AC4BCC169AA",
+        "pdfPage": 5,
+        "referenceWords": 186,
+        "rawErrors": 115,
+        "methods": [
+          {
+            "psm": 3,
+            "errors": 5,
+            "wordErrorRate": 0.0269,
+            "elapsedSeconds": 4.32
+          },
+          {
+            "psm": 6,
+            "errors": 25,
+            "wordErrorRate": 0.1344,
+            "elapsedSeconds": 4.57
+          }
+        ],
+        "rawWordErrorRate": 0.6183
+      },
+      {
+        "documentId": "PB-2AA72AC4BCC169AA",
+        "pdfPage": 6,
+        "referenceWords": 224,
+        "rawErrors": 204,
+        "methods": [
+          {
+            "psm": 3,
+            "errors": 155,
+            "wordErrorRate": 0.692,
+            "elapsedSeconds": 4.29
+          },
+          {
+            "psm": 6,
+            "errors": 33,
+            "wordErrorRate": 0.1473,
+            "elapsedSeconds": 4.51
+          }
+        ],
+        "rawWordErrorRate": 0.9107
+      },
+      {
+        "documentId": "PB-2AA72AC4BCC169AA",
+        "pdfPage": 8,
+        "referenceWords": 194,
+        "rawErrors": 74,
+        "methods": [
+          {
+            "psm": 3,
+            "errors": 16,
+            "wordErrorRate": 0.0825,
+            "elapsedSeconds": 4.73
+          },
+          {
+            "psm": 6,
+            "errors": 48,
+            "wordErrorRate": 0.2474,
+            "elapsedSeconds": 4.97
+          }
+        ],
+        "rawWordErrorRate": 0.3814
+      },
+      {
+        "documentId": "PB-2AA72AC4BCC169AA",
+        "pdfPage": 9,
+        "referenceWords": 662,
+        "rawErrors": 601,
+        "methods": [
+          {
+            "psm": 3,
+            "errors": 38,
+            "wordErrorRate": 0.0574,
+            "elapsedSeconds": 13.86
+          },
+          {
+            "psm": 6,
+            "errors": 91,
+            "wordErrorRate": 0.1375,
+            "elapsedSeconds": 14.47
+          }
+        ],
+        "rawWordErrorRate": 0.9079
+      },
+      {
+        "documentId": "PB-2AA72AC4BCC169AA",
+        "pdfPage": 10,
+        "referenceWords": 500,
+        "rawErrors": 472,
+        "methods": [
+          {
+            "psm": 3,
+            "errors": 18,
+            "wordErrorRate": 0.036,
+            "elapsedSeconds": 10.52
+          },
+          {
+            "psm": 6,
+            "errors": 251,
+            "wordErrorRate": 0.502,
+            "elapsedSeconds": 14.81
+          }
+        ],
+        "rawWordErrorRate": 0.944
+      },
+      {
+        "documentId": "PB-B077EA633FFBFD29",
+        "pdfPage": 5,
+        "referenceWords": 131,
+        "rawErrors": 74,
+        "methods": [
+          {
+            "psm": 3,
+            "errors": 13,
+            "wordErrorRate": 0.0992,
+            "elapsedSeconds": 3.1
+          },
+          {
+            "psm": 6,
+            "errors": 14,
+            "wordErrorRate": 0.1069,
+            "elapsedSeconds": 2.99
+          }
+        ],
+        "rawWordErrorRate": 0.5649
+      },
+      {
+        "documentId": "PB-B077EA633FFBFD29",
+        "pdfPage": 19,
+        "referenceWords": 209,
+        "rawErrors": 225,
+        "methods": [
+          {
+            "psm": 3,
+            "errors": 13,
+            "wordErrorRate": 0.0622,
+            "elapsedSeconds": 3.91
+          },
+          {
+            "psm": 6,
+            "errors": 16,
+            "wordErrorRate": 0.0766,
+            "elapsedSeconds": 4.43
+          }
+        ],
+        "rawWordErrorRate": 1.0766
+      },
+      {
+        "documentId": "PB-B077EA633FFBFD29",
+        "pdfPage": 20,
+        "referenceWords": 492,
+        "rawErrors": 562,
+        "methods": [
+          {
+            "psm": 3,
+            "errors": 23,
+            "wordErrorRate": 0.0467,
+            "elapsedSeconds": 8.83
+          },
+          {
+            "psm": 6,
+            "errors": 37,
+            "wordErrorRate": 0.0752,
+            "elapsedSeconds": 9.42
+          }
+        ],
+        "rawWordErrorRate": 1.1423
+      },
+      {
+        "documentId": "PB-B077EA633FFBFD29",
+        "pdfPage": 21,
+        "referenceWords": 533,
+        "rawErrors": 527,
+        "methods": [
+          {
+            "psm": 3,
+            "errors": 26,
+            "wordErrorRate": 0.0488,
+            "elapsedSeconds": 10.44
+          },
+          {
+            "psm": 6,
+            "errors": 39,
+            "wordErrorRate": 0.0732,
+            "elapsedSeconds": 10.06
+          }
+        ],
+        "rawWordErrorRate": 0.9887
+      },
+      {
+        "documentId": "PB-B077EA633FFBFD29",
+        "pdfPage": 53,
+        "referenceWords": 162,
+        "rawErrors": 112,
+        "methods": [
+          {
+            "psm": 3,
+            "errors": 5,
+            "wordErrorRate": 0.0309,
+            "elapsedSeconds": 3.32
+          },
+          {
+            "psm": 6,
+            "errors": 27,
+            "wordErrorRate": 0.1667,
+            "elapsedSeconds": 3.57
+          }
+        ],
+        "rawWordErrorRate": 0.6914
+      }
+    ],
+    "pipeline": {
+      "method": "Masskörningens metod: 3200 px, gråskala, automatisk uppslagsdelning, svenska/Fraktur, psm 3",
+      "wordErrorRate": 0.14606741573033707,
+      "pages": [
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 5,
+          "referenceWords": 186,
+          "errors": 5,
+          "wordErrorRate": 0.026881720430107527,
+          "confidence": 91.29,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 6,
+          "referenceWords": 224,
+          "errors": 54,
+          "wordErrorRate": 0.24107142857142858,
+          "confidence": 91.84,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 8,
+          "referenceWords": 194,
+          "errors": 13,
+          "wordErrorRate": 0.06701030927835051,
+          "confidence": 91.55,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 9,
+          "referenceWords": 662,
+          "errors": 230,
+          "wordErrorRate": 0.3474320241691843,
+          "confidence": 92.91,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 10,
+          "referenceWords": 500,
+          "errors": 28,
+          "wordErrorRate": 0.056,
+          "confidence": 91.63,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 5,
+          "referenceWords": 131,
+          "errors": 11,
+          "wordErrorRate": 0.08396946564885496,
+          "confidence": 89.47,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 19,
+          "referenceWords": 209,
+          "errors": 10,
+          "wordErrorRate": 0.04784688995215311,
+          "confidence": 90.9,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 20,
+          "referenceWords": 492,
+          "errors": 30,
+          "wordErrorRate": 0.06097560975609756,
+          "confidence": 91.78,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 21,
+          "referenceWords": 533,
+          "errors": 91,
+          "wordErrorRate": 0.17073170731707318,
+          "confidence": 86.61,
+          "languages": [
+            "swe",
+            "Fraktur"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 53,
+          "referenceWords": 162,
+          "errors": 9,
+          "wordErrorRate": 0.05555555555555555,
+          "confidence": 93.03,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        }
+      ]
+    },
+    "checkedAt": "2026-10-05T17:25:33.542649+00:00",
+    "coreCalibration": {
+      "method": "Kalibrerad kärnmetod: 2800 px, RGB JPEG 92, automatisk uppslagsdelning, svenska, psm 3",
+      "wordErrorRate": 0.13817187974491346,
+      "pages": [
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 5,
+          "referenceWords": 186,
+          "errors": 21,
+          "wordErrorRate": 0.11290322580645161,
+          "confidence": 92.43,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 6,
+          "referenceWords": 224,
+          "errors": 83,
+          "wordErrorRate": 0.3705357142857143,
+          "confidence": 88.68,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 8,
+          "referenceWords": 194,
+          "errors": 15,
+          "wordErrorRate": 0.07731958762886598,
+          "confidence": 92.0,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 9,
+          "referenceWords": 662,
+          "errors": 236,
+          "wordErrorRate": 0.3564954682779456,
+          "confidence": 92.74,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 10,
+          "referenceWords": 500,
+          "errors": 23,
+          "wordErrorRate": 0.046,
+          "confidence": 90.87,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 5,
+          "referenceWords": 131,
+          "errors": 11,
+          "wordErrorRate": 0.08396946564885496,
+          "confidence": 88.73,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 19,
+          "referenceWords": 209,
+          "errors": 14,
+          "wordErrorRate": 0.06698564593301436,
+          "confidence": 91.85,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 20,
+          "referenceWords": 492,
+          "errors": 22,
+          "wordErrorRate": 0.044715447154471545,
+          "confidence": 90.84,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 21,
+          "referenceWords": 533,
+          "errors": 25,
+          "wordErrorRate": 0.04690431519699812,
+          "confidence": 75.21,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 53,
+          "referenceWords": 162,
+          "errors": 5,
+          "wordErrorRate": 0.030864197530864196,
+          "confidence": 92.99,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        }
+      ]
+    },
+    "coreCalibrationV3": {
+      "method": "Kalibrerad kärnmetod: 2800 px, RGB JPEG 92 två steg, automatisk uppslagsdelning, svenska, psm 3",
+      "wordErrorRate": 0.1014272699665958,
+      "pages": [
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 5,
+          "referenceWords": 186,
+          "errors": 22,
+          "wordErrorRate": 0.11827956989247312,
+          "confidence": 91.98,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 6,
+          "referenceWords": 224,
+          "errors": 140,
+          "wordErrorRate": 0.625,
+          "confidence": 88.01,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 8,
+          "referenceWords": 194,
+          "errors": 15,
+          "wordErrorRate": 0.07731958762886598,
+          "confidence": 92.03,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 9,
+          "referenceWords": 662,
+          "errors": 43,
+          "wordErrorRate": 0.0649546827794562,
+          "confidence": 92.81,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 10,
+          "referenceWords": 500,
+          "errors": 39,
+          "wordErrorRate": 0.078,
+          "confidence": 91.16,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 5,
+          "referenceWords": 131,
+          "errors": 9,
+          "wordErrorRate": 0.06870229007633588,
+          "confidence": 89.39,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 19,
+          "referenceWords": 209,
+          "errors": 14,
+          "wordErrorRate": 0.06698564593301436,
+          "confidence": 91.8,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 20,
+          "referenceWords": 492,
+          "errors": 22,
+          "wordErrorRate": 0.044715447154471545,
+          "confidence": 90.92,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 21,
+          "referenceWords": 533,
+          "errors": 25,
+          "wordErrorRate": 0.04690431519699812,
+          "confidence": 75.78,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 53,
+          "referenceWords": 162,
+          "errors": 5,
+          "wordErrorRate": 0.030864197530864196,
+          "confidence": 93.13,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        }
+      ]
+    },
+    "pipelineCorrected": {
+      "method": "Masskörningens metod: 3200 px, gråskala, automatisk uppslagsdelning, svenska/Fraktur, psm 3, rättad TSV-läsning",
+      "wordErrorRate": 0.12845429699362285,
+      "pages": [
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 5,
+          "referenceWords": 186,
+          "errors": 5,
+          "wordErrorRate": 0.026881720430107527,
+          "confidence": 91.29,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 6,
+          "referenceWords": 224,
+          "errors": 54,
+          "wordErrorRate": 0.24107142857142858,
+          "confidence": 91.84,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 8,
+          "referenceWords": 194,
+          "errors": 13,
+          "wordErrorRate": 0.06701030927835051,
+          "confidence": 91.55,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 9,
+          "referenceWords": 662,
+          "errors": 230,
+          "wordErrorRate": 0.3474320241691843,
+          "confidence": 92.91,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 10,
+          "referenceWords": 500,
+          "errors": 28,
+          "wordErrorRate": 0.056,
+          "confidence": 91.63,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 5,
+          "referenceWords": 131,
+          "errors": 11,
+          "wordErrorRate": 0.08396946564885496,
+          "confidence": 89.47,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 19,
+          "referenceWords": 209,
+          "errors": 10,
+          "wordErrorRate": 0.04784688995215311,
+          "confidence": 90.9,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 20,
+          "referenceWords": 492,
+          "errors": 30,
+          "wordErrorRate": 0.06097560975609756,
+          "confidence": 91.78,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 21,
+          "referenceWords": 533,
+          "errors": 33,
+          "wordErrorRate": 0.06191369606003752,
+          "confidence": 90.5,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 53,
+          "referenceWords": 162,
+          "errors": 9,
+          "wordErrorRate": 0.05555555555555555,
+          "confidence": 93.03,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        }
+      ]
+    },
+    "coreCalibrationV4": {
+      "method": "Kalibrerad kärnmetod: 2800 px, RGB JPEG 92 två steg, automatisk uppslagsdelning, svenska, psm 3",
+      "wordErrorRate": 0.1014272699665958,
+      "pages": [
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 5,
+          "referenceWords": 186,
+          "errors": 22,
+          "wordErrorRate": 0.11827956989247312,
+          "confidence": 91.98,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 6,
+          "referenceWords": 224,
+          "errors": 140,
+          "wordErrorRate": 0.625,
+          "confidence": 88.01,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 8,
+          "referenceWords": 194,
+          "errors": 15,
+          "wordErrorRate": 0.07731958762886598,
+          "confidence": 92.03,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 9,
+          "referenceWords": 662,
+          "errors": 43,
+          "wordErrorRate": 0.0649546827794562,
+          "confidence": 92.81,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-2AA72AC4BCC169AA",
+          "pdfPage": 10,
+          "referenceWords": 500,
+          "errors": 39,
+          "wordErrorRate": 0.078,
+          "confidence": 91.16,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 5,
+          "referenceWords": 131,
+          "errors": 9,
+          "wordErrorRate": 0.06870229007633588,
+          "confidence": 89.39,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 19,
+          "referenceWords": 209,
+          "errors": 14,
+          "wordErrorRate": 0.06698564593301436,
+          "confidence": 91.8,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 20,
+          "referenceWords": 492,
+          "errors": 22,
+          "wordErrorRate": 0.044715447154471545,
+          "confidence": 90.92,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 21,
+          "referenceWords": 533,
+          "errors": 25,
+          "wordErrorRate": 0.04690431519699812,
+          "confidence": 89.96,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        },
+        {
+          "documentId": "PB-B077EA633FFBFD29",
+          "pdfPage": 53,
+          "referenceWords": 162,
+          "errors": 5,
+          "wordErrorRate": 0.030864197530864196,
+          "confidence": 93.13,
+          "languages": [
+            "swe",
+            "swe"
+          ]
+        }
+      ]
+    }
+  },
+  "policy": "Maskinell screening och OCR; manuella revisioner har företräde. Alla OCR-kandidater är ogranskade. Säkerhetsvärde mäter inte faktisk korrekthet."
+}

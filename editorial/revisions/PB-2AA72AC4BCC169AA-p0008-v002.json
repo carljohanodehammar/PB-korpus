@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-2AA72AC4BCC169AA:p0008",
+  "documentId": "PB-2AA72AC4BCC169AA",
+  "pdfPage": 8,
+  "sourceSha256": "2aa72ac4bcc169aac31b1d1b803b5bdb0151f33dac1365127f3f9807881b0f93",
+  "rawTextSha256": "5df1a1ed05fa78842fec47e8a2a540f80e96f43baf3520e397f11ba7f8dc7feb",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": null,
+      "basis": "Inget tryckt sidnummer synligt; ingen numrering antagen"
+    }
+  ],
+  "notes": [],
+  "revision": 2,
+  "parentRevision": 1,
+  "status": "proofread",
+  "segments": [
+    "Par Bricoles Gustavianska period.\nPersonhistoriska anteckningar till den äldsta matrikeln.\n\n1. BARNEKOW, ADOLPH FRIDRICH, till Björnstorp.\nFriherre, Kammarherre hos hertiginnan af Södermanland.\nF. 6 juni 1744 i Skåne, † derst. 4 sept. 1787.\n\nFriherre B. var Förste direktör vid Kongl. Maj:ts spektakler 1776–80 och erhöll vid afgången en ledig plats bland statens fullmäktige i Öfverstyrelsen för tullverket. Kexél, som af erkänsla och tacksamhet insatte honom till primus i den stora ordensmatrikeln, den första, hvilken hösten 1779 upplades, antecknade honom som den högst uppsatte i Ordenssällskapet Par Bricole, nemligen som äldste Guvernör och Riddare af Bricoleriet, hvarefter han antog ett ordensvapen af vidstående utseende.\n\nSamtidigt anhöll Kexél, att B. måtte låta kalla sig till P. B:s G. Ordförande, men på grund af tilltagande sjuklighet och bekymmer afböjde B. anbudet till förmån för den äldre af de talangfulla bröderna Stiernecrantz. Då han åtta år senare vid en ålder af endast 43 år aflidit »på fädernegodset Hvittsköfle i Skåne» (K:s ant. i ett af spec.-matriklarne), framhöll Kexél i parentationstalet våren 1788, att ingen kunde likna denne ädling i »Munterhet och Artiga Påfund» samt att P. B. i honom »förlorat en af sina grundläggare»."
+  ],
+  "passages": [
+    {
+      "id": "E-K08-BARNEKOW",
+      "text": "1. BARNEKOW, ADOLPH FRIDRICH, till Björnstorp.",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-K08-GUV",
+      "text": "äldste Guvernör och Riddare af Bricoleriet",
+      "reviewStatus": "checked-against-image"
+    }
+  ],
+  "unresolved": [],
+  "changeReason": "Tryckt löptext och noter transkriberade och jämförda med sidbilden; äldre stavning bevarad",
+  "textSha256": "d37fef22a590e3cd23412741a3f9f297ffb14b9fa6f4a543cec0a1717b200fd8",
+  "changes": [
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        10,
+        13
+      ],
+      "editedWordRange": [
+        10,
+        12
+      ],
+      "before": "r. BAR NEKOW,",
+      "after": "1. BARNEKOW,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        16,
+        18
+      ],
+      "editedWordRange": [
+        15,
+        16
+      ],
+      "before": "Björns torp.",
+      "after": "Björnstorp."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        26,
+        27
+      ],
+      "editedWordRange": [
+        24,
+        25
+      ],
+      "before": "jnni",
+      "after": "juni"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        29,
+        31
+      ],
+      "editedWordRange": [
+        27,
+        29
+      ],
+      "before": "Skå.ne, t",
+      "after": "Skåne, †"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        34,
+        37
+      ],
+      "editedWordRange": [
+        32,
+        33
+      ],
+      "before": "17 8 7.",
+      "after": "1787."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        41,
+        43
+      ],
+      "editedWordRange": [
+        37,
+        38
+      ],
+      "before": "d irektör",
+      "after": "direktör"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        44,
+        45
+      ],
+      "editedWordRange": [
+        39,
+        40
+      ],
+      "before": "Kong\\.",
+      "after": "Kongl."
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        47,
+        51
+      ],
+      "editedWordRange": [
+        42,
+        43
+      ],
+      "before": "177 6 - 80",
+      "after": "1776–80"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        60,
+        62
+      ],
+      "editedWordRange": [
+        52,
+        53
+      ],
+      "before": "full- mäktige",
+      "after": "fullmäktige"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        63,
+        64
+      ],
+      "editedWordRange": [
+        54,
+        55
+      ],
+      "before": "Öfverstyrelsell",
+      "after": "Öfverstyrelsen"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        65,
+        67
+      ],
+      "editedWordRange": [
+        56,
+        58
+      ],
+      "before": "tulh·erket. Kexel,",
+      "after": "tullverket. Kexél,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        69,
+        70
+      ],
+      "editedWordRange": [
+        60,
+        61
+      ],
+      "before": "erkäusla",
+      "after": "erkänsla"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        72,
+        76
+      ],
+      "editedWordRange": [
+        63,
+        65
+      ],
+      "before": "in atte hon om",
+      "after": "insatte honom"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        77,
+        79
+      ],
+      "editedWordRange": [
+        66,
+        67
+      ],
+      "before": "pri- mus",
+      "after": "primus"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        85,
+        87
+      ],
+      "editedWordRange": [
+        73,
+        74
+      ],
+      "before": "h vilken",
+      "after": "hvilken"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        92,
+        93
+      ],
+      "editedWordRange": [
+        79,
+        80
+      ],
+      "before": "SODl",
+      "after": "som"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        97,
+        99
+      ],
+      "editedWordRange": [
+        84,
+        85
+      ],
+      "before": "Ordenssäll- skapet",
+      "after": "Ordenssällskapet"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        101,
+        102
+      ],
+      "editedWordRange": [
+        87,
+        88
+      ],
+      "before": "nemiigen",
+      "after": "nemligen"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        104,
+        105
+      ],
+      "editedWordRange": [
+        90,
+        91
+      ],
+      "before": "Gnvernör",
+      "after": "Guvernör"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        108,
+        111
+      ],
+      "editedWordRange": [
+        94,
+        95
+      ],
+      "before": "Bri- coleri et,",
+      "after": "Bricoleriet,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        112,
+        117
+      ],
+      "editedWordRange": [
+        96,
+        98
+      ],
+      "before": "h an a nto g",
+      "after": "han antog"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        118,
+        120
+      ],
+      "editedWordRange": [
+        99,
+        100
+      ],
+      "before": "or- densvapen",
+      "after": "ordensvapen"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        121,
+        122
+      ],
+      "editedWordRange": [
+        101,
+        102
+      ],
+      "before": "vidstå.ende",
+      "after": "vidstående"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        125,
+        128
+      ],
+      "editedWordRange": [
+        105,
+        107
+      ],
+      "before": "Kexel, a tt",
+      "after": "Kexél, att"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        129,
+        131
+      ],
+      "editedWordRange": [
+        108,
+        110
+      ],
+      "before": "må.tte lå.ta",
+      "after": "måtte låta"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        139,
+        140
+      ],
+      "editedWordRange": [
+        118,
+        119
+      ],
+      "before": "på.",
+      "after": "på"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        142,
+        144
+      ],
+      "editedWordRange": [
+        121,
+        122
+      ],
+      "before": "till- tagande",
+      "after": "tilltagande"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        151,
+        153
+      ],
+      "editedWordRange": [
+        129,
+        130
+      ],
+      "before": "förm ån",
+      "after": "förmån"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        158,
+        159
+      ],
+      "editedWordRange": [
+        135,
+        136
+      ],
+      "before": "talangfnlla",
+      "after": "talangfulla"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        161,
+        167
+      ],
+      "editedWordRange": [
+        138,
+        142
+      ],
+      "before": "D å. h an å.tta å.r",
+      "after": "Då han åtta år"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        170,
+        171
+      ],
+      "editedWordRange": [
+        145,
+        146
+      ],
+      "before": "å.lder",
+      "after": "ålder"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        174,
+        175
+      ],
+      "editedWordRange": [
+        149,
+        150
+      ],
+      "before": "å.r",
+      "after": "år"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        176,
+        178
+      ],
+      "editedWordRange": [
+        151,
+        152
+      ],
+      "before": ". på.",
+      "after": "»på"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        179,
+        181
+      ],
+      "editedWordRange": [
+        153,
+        154
+      ],
+      "before": "Hvitt- sköfle",
+      "after": "Hvittsköfle"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        182,
+        185
+      ],
+      "editedWordRange": [
+        155,
+        157
+      ],
+      "before": "Skå.ne . (Ks",
+      "after": "Skåne» (K:s"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        191,
+        192
+      ],
+      "editedWordRange": [
+        163,
+        164
+      ],
+      "before": "Kexel",
+      "after": "Kexél"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        193,
+        196
+      ],
+      "editedWordRange": [
+        165,
+        167
+      ],
+      "before": "pareu tationstalet vå.ren",
+      "after": "parentationstalet våren"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        202,
+        204
+      ],
+      "editedWordRange": [
+        173,
+        174
+      ],
+      "before": "ädlin g",
+      "after": "ädling"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        205,
+        208
+      ],
+      "editedWordRange": [
+        175,
+        176
+      ],
+      "before": ". M unterhet",
+      "after": "»Munterhet"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        210,
+        212
+      ],
+      "editedWordRange": [
+        178,
+        179
+      ],
+      "before": "Påfund .",
+      "after": "Påfund»"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        218,
+        219
+      ],
+      "editedWordRange": [
+        185,
+        186
+      ],
+      "before": ",förlorat",
+      "after": "»förlorat"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        222,
+        225
+      ],
+      "editedWordRange": [
+        189,
+        190
+      ],
+      "before": "grundläggare • .",
+      "after": "grundläggare»."
+    }
+  ]
+}

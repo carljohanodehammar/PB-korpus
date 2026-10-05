@@ -1,0 +1,517 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "P-KINBERG",
+      "label": "August Kinberg",
+      "kind": "person",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-K06-KINBERG",
+          "revision": 2
+        },
+        {
+          "id": "E-K05-ARKIV",
+          "revision": 2
+        }
+      ],
+      "description": "Undertecknar förordet som ordensarkivarie. Förordet beskriver matriklarna och arkivmaterialet som källor.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-BARNEKOW",
+      "label": "Adolph Fridrich Barnekow",
+      "kind": "person",
+      "aliases": [
+        "Barnekow"
+      ],
+      "evidence": [
+        {
+          "id": "E-K08-BARNEKOW",
+          "revision": 2
+        },
+        {
+          "id": "E-K08-GUV",
+          "revision": 2
+        }
+      ],
+      "description": "Första posten i Kinbergs matrikelstudie. Källan beskriver honom som äldste guvernör och riddare.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-KEXEL",
+      "label": "Olof Kexél",
+      "kind": "person",
+      "aliases": [
+        "Kexél",
+        "Kexel"
+      ],
+      "evidence": [
+        {
+          "id": "E-K09-KEXEL",
+          "revision": 2
+        },
+        {
+          "id": "E-K09-DATUM",
+          "revision": 2
+        },
+        {
+          "id": "E-K09-CEREMONI",
+          "revision": 2
+        },
+        {
+          "id": "E-H19-KEXEL",
+          "revision": 2
+        }
+      ],
+      "description": "Kinberg beskriver honom som organisatör. Årtalet för Sackenhjelms parentation skiljer sig mellan Kinbergs uppgift (1777) och Handlingarnas rubrik (1778); frågan lämnas öppen.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-CEDERSTEDT",
+      "label": "Jonas Cederstedt",
+      "kind": "person",
+      "aliases": [
+        "Cederstedt"
+      ],
+      "evidence": [
+        {
+          "id": "E-K10-CEDERSTEDT",
+          "revision": 2
+        },
+        {
+          "id": "E-K10-STOR",
+          "revision": 2
+        }
+      ],
+      "description": "Kinbergs post beskriver ordensarbete och tillträdet till stormästareämbetet 1799.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-GUSTAV-STIERNECRANTZ",
+      "label": "Gustav (Fabian) Stiernecrantz",
+      "kind": "person",
+      "aliases": [
+        "Gustaf Stiernecrantz"
+      ],
+      "evidence": [
+        {
+          "id": "E-K10-GUSTAV",
+          "revision": 2
+        }
+      ],
+      "description": "Egen personpost; sammanförs inte med brodern Arvid Adrian.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-ARVID-STJERNECRANTZ",
+      "label": "Arvid Adrian Stjernecrantz",
+      "kind": "person",
+      "aliases": [
+        "Arvid Adrian Stiernecrantz"
+      ],
+      "evidence": [
+        {
+          "id": "E-H19-ARVID",
+          "revision": 2
+        },
+        {
+          "id": "E-H20-ARVID",
+          "revision": 2
+        }
+      ],
+      "description": "Handlingarna namnger honom i en not och som talare på Barbara-dagen 1784.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-DEGEER",
+      "label": "Johan Jacob de Geer",
+      "kind": "person",
+      "aliases": [
+        "de Geer"
+      ],
+      "evidence": [
+        {
+          "id": "E-K10-DEGEER",
+          "revision": 2
+        }
+      ],
+      "description": "Namngiven i Kinbergs matrikelstudie.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-OXENSTIERNA",
+      "label": "Johan Gabriel Oxenstierna",
+      "kind": "person",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-K10-OXENSTIERNA",
+          "revision": 2
+        }
+      ],
+      "description": "Kinbergs post beskriver deltagande i Barbarafesten och senare ordensverksamhet.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-SACKENHJELM",
+      "label": "Gottfried Sackenhjelm",
+      "kind": "person",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-H05-SACKENHJELM",
+          "revision": 2
+        },
+        {
+          "id": "E-H05-DATUM",
+          "revision": 2
+        },
+        {
+          "id": "E-K09-DATUM",
+          "revision": 2
+        }
+      ],
+      "description": "Föremål för parentationen. Rubriken daterar talet till hösten 1778, medan Kinbergs uppgift anger 1777.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-HALLMAN",
+      "label": "Hallman (notarien)",
+      "kind": "person",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-H05-HALLMAN",
+          "revision": 2
+        }
+      ],
+      "description": "Rubriken tillskriver talet notarien Hallman. Förnamn fylls inte i från antaganden.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-VALERIUS",
+      "label": "Johan David Valerius",
+      "kind": "person",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-H53-VALERIUS",
+          "revision": 2
+        }
+      ],
+      "description": "Namngiven som talare i Bacchi giftermål den 5 december 1802.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-LIVIJN",
+      "label": "Claës Livijn",
+      "kind": "person",
+      "aliases": [
+        "Claes Livijn"
+      ],
+      "evidence": [
+        {
+          "id": "E-K09-LIVIJN",
+          "revision": 2
+        }
+      ],
+      "description": "Namngiven efter citatet om Kexéls ceremonimästarroll.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-WEDBERG",
+      "label": "J. O. Wedberg",
+      "kind": "person",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-K05-WEDBERG",
+          "revision": 2
+        }
+      ],
+      "description": "Namngiven i förordet som medhjälpare vid personhistorisk kontroll.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-LEVERTIN",
+      "label": "Alfred Levertin",
+      "kind": "person",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-K05-LEVERTIN",
+          "revision": 2
+        }
+      ],
+      "description": "Namngiven i förordet som medhjälpare och korrekturläsare.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "P-SCHOLDSTROM",
+      "label": "Birger Schöldström",
+      "kind": "person",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-K05-SCHOLDSTROM",
+          "revision": 2
+        }
+      ],
+      "description": "Namngiven i förordet som medhjälpare och korrekturläsare.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-MATRIKEL",
+      "label": "Ordensmatrikel",
+      "kind": "term",
+      "aliases": [
+        "matrikeln"
+      ],
+      "evidence": [
+        {
+          "id": "E-K05-MATRIKEL",
+          "revision": 2
+        }
+      ],
+      "description": "Kinberg anger den äldsta allmänna matrikeln som stomme för verket.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-ARKIVARIE",
+      "label": "Ordensarkivarie",
+      "kind": "term",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-K05-ARKIV",
+          "revision": 2
+        }
+      ],
+      "description": "Benämning på Kinbergs uppdrag i förordet.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-GUVERNOR",
+      "label": "Guvernör och riddare",
+      "kind": "term",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-K08-GUV",
+          "revision": 2
+        }
+      ],
+      "description": "Ordensbenämningar i Barnekows post; användningen ska följas vidare i fler källor.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-CEREMONIMASTARE",
+      "label": "Generalceremonimästare",
+      "kind": "term",
+      "aliases": [
+        "General Ceremonimästare",
+        "General-ceremonimästare"
+      ],
+      "evidence": [
+        {
+          "id": "E-K09-CEREMONI",
+          "revision": 2
+        },
+        {
+          "id": "E-K09-RITUAL",
+          "revision": 2
+        }
+      ],
+      "description": "Kexéls roll beskrivs genom ceremonier och ritual.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-COMMENDEUR",
+      "label": "Commendeursgraden",
+      "kind": "term",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-K10-COMM",
+          "revision": 2
+        }
+      ],
+      "description": "Benämning på graden i Cederstedts reception enligt Kinbergs återgivning.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-STORMASTARE",
+      "label": "Stormästareämbetet",
+      "kind": "term",
+      "aliases": [
+        "Stormästareembetet"
+      ],
+      "evidence": [
+        {
+          "id": "E-K10-STOR",
+          "revision": 2
+        }
+      ],
+      "description": "Kinberg beskriver ämbetet som nyinrättat 1799.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-BARBARA",
+      "label": "Barbara-dagen",
+      "kind": "term",
+      "aliases": [
+        "Barbaradagen",
+        "Barbarafesten"
+      ],
+      "evidence": [
+        {
+          "id": "E-K09-BARBARA",
+          "revision": 2
+        },
+        {
+          "id": "E-H20-ARVID",
+          "revision": 2
+        },
+        {
+          "id": "E-H21-BARBARA",
+          "revision": 2
+        }
+      ],
+      "description": "Vinterhögtidsdag hos Kinberg; i talet används en skämtsam berättelse om Barbara som Gumman Noak. Dessa framställningar hålls isär.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-SOFIA",
+      "label": "Sofiadagen",
+      "kind": "term",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-K09-SOFIA",
+          "revision": 2
+        }
+      ],
+      "description": "Kinberg knyter sommarhögtidsdagen till Sofiadagen. Tryckets form ”Ordens-Instictelse-dagen” bevaras i belägget.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-PARENTATION",
+      "label": "Parentation",
+      "kind": "term",
+      "aliases": [],
+      "evidence": [
+        {
+          "id": "E-H05-PARENTATION",
+          "revision": 2
+        },
+        {
+          "id": "E-H05-HALLMAN",
+          "revision": 2
+        }
+      ],
+      "description": "Minnestalets rubrik i Handlingarna; i detta belägg gäller det Sackenhjelm.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-ORDENSCANTOR",
+      "label": "Ordenscantor",
+      "kind": "term",
+      "aliases": [
+        "Ordenscantorn"
+      ],
+      "evidence": [
+        {
+          "id": "E-H05-CANTOR",
+          "revision": 2
+        }
+      ],
+      "description": "Rollbeteckning i parentationens scenanvisning.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-BACCHUS",
+      "label": "Bacchus och Bacchi",
+      "kind": "term",
+      "aliases": [
+        "Bacchi",
+        "Backus"
+      ],
+      "evidence": [
+        {
+          "id": "E-H05-BACCHUS",
+          "revision": 2
+        },
+        {
+          "id": "E-K09-BACCHI",
+          "revision": 2
+        },
+        {
+          "id": "E-H53-BACCHI",
+          "revision": 2
+        }
+      ],
+      "description": "Mytologiskt och poetiskt motiv i texterna; registreras inte som en historisk ordensmedlem.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-NOAK",
+      "label": "Noak och Barbara",
+      "kind": "term",
+      "aliases": [
+        "Gumman Noak",
+        "Barbara Noak"
+      ],
+      "evidence": [
+        {
+          "id": "E-H20-NOAK",
+          "revision": 2
+        },
+        {
+          "id": "E-H21-BARBARA",
+          "revision": 2
+        }
+      ],
+      "description": "Gestalter i talets allegoriska och skämtsamma berättelse. Uppgifterna behandlas inte som en historisk biografi.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-FROJA",
+      "label": "Fröja",
+      "kind": "term",
+      "aliases": [
+        "Fröjas"
+      ],
+      "evidence": [
+        {
+          "id": "E-H20-BACCHI",
+          "revision": 2
+        },
+        {
+          "id": "E-H21-FROJA",
+          "revision": 2
+        }
+      ],
+      "description": "Mytologiskt motiv i talet.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    },
+    {
+      "id": "T-CAPITEL",
+      "label": "Capitel",
+      "kind": "term",
+      "aliases": [
+        "Capitlet",
+        "kapitel"
+      ],
+      "evidence": [
+        {
+          "id": "E-H19-CAPITEL",
+          "revision": 2
+        }
+      ],
+      "description": "Belägg i en chorus om Kexél. En vidare betydelsebestämning kräver fler sammanhang.",
+      "scope": "Redaktionell registeranteckning grundad i angivna belägg; inte en fullständig biografi eller definition"
+    }
+  ]
+}

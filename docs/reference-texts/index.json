@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "source": "Språkbanken Text (2015). Bellman.",
+  "sourceUrl": "https://spraakbanken.gu.se/resurser/bellman",
+  "doi": "https://doi.org/10.23695/5DRX-FH45",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+  "wordTokens": 452030,
+  "sentences": 33479,
+  "pageUnits": 4641,
+  "books": [
+    {
+      "id": "bellman-01",
+      "title": "Bacchi Orden",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 389,
+      "wordTokens": 37645
+    },
+    {
+      "id": "bellman-02",
+      "title": "Bacchi Tempel",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 276,
+      "wordTokens": 33566
+    },
+    {
+      "id": "bellman-03",
+      "title": "Dramatiska Arbeten",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 335,
+      "wordTokens": 39063
+    },
+    {
+      "id": "bellman-04",
+      "title": "Efterskörd",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 197,
+      "wordTokens": 20396
+    },
+    {
+      "id": "bellman-05",
+      "title": "Bacchanaliska qwäden och En stuf rim",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 143,
+      "wordTokens": 10843
+    },
+    {
+      "id": "bellman-06",
+      "title": "Dikter till enskilda I",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 297,
+      "wordTokens": 25345
+    },
+    {
+      "id": "bellman-07",
+      "title": "Dikter till enskilda II",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 297,
+      "wordTokens": 22766
+    },
+    {
+      "id": "bellman-08",
+      "title": "Dikter till enskilda III",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 300,
+      "wordTokens": 26339
+    },
+    {
+      "id": "bellman-09",
+      "title": "Dikter till enskilda IV",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 314,
+      "wordTokens": 21677
+    },
+    {
+      "id": "bellman-10",
+      "title": "Dikter till enskilda V",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 172,
+      "wordTokens": 16461
+    },
+    {
+      "id": "bellman-11",
+      "title": "Fredmans Epistlar",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 482,
+      "wordTokens": 40341
+    },
+    {
+      "id": "bellman-12",
+      "title": "Fredmans Sånger",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 241,
+      "wordTokens": 21790
+    },
+    {
+      "id": "bellman-13",
+      "title": "Dikter till Gustaf III",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 220,
+      "wordTokens": 26296
+    },
+    {
+      "id": "bellman-14",
+      "title": "Hwad behagas? Brev och skrivelser",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 114,
+      "wordTokens": 15072
+    },
+    {
+      "id": "bellman-15",
+      "title": "Översättningar",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 250,
+      "wordTokens": 30721
+    },
+    {
+      "id": "bellman-16",
+      "title": "Politisk och patriotisk diktning",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 108,
+      "wordTokens": 11278
+    },
+    {
+      "id": "bellman-17",
+      "title": "Religiös diktning",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 123,
+      "wordTokens": 14935
+    },
+    {
+      "id": "bellman-18",
+      "title": "Ungdomsdikter I",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 141,
+      "wordTokens": 14566
+    },
+    {
+      "id": "bellman-19",
+      "title": "Ungdomsdikter II, Bacchanaliska visor",
+      "author": "Bellman, Carl Michael (1740–1795)",
+      "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+      "pageUnits": 242,
+      "wordTokens": 22930
+    }
+  ],
+  "layout": "Ordens följd och meningsfragment kommer från XML. Mellanrum sätts mellan token; ursprunglig typografi och versradbrytning återskapas inte.",
+  "edition": "Carl Michael Bellmans skrifter, standardupplagan 1921–2003. Sidangivelserna gäller datakällan och är inte kopplade till PDF-originalen."
+}

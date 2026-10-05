@@ -1,0 +1,18 @@
+{
+  "updatedAt": "2026-10-05T17:46:35.160799+00:00",
+  "constraint": "Inga extra kostnader får tillkomma genom agentens åtgärder",
+  "local": [
+    "Poppler PDF extraction and rendering",
+    "Tesseract OCR with local downloaded models",
+    "Checksums, export and browser search"
+  ],
+  "usesAppAI": [
+    "Planning and method choices",
+    "Code generation and changes",
+    "AI-assisted visual proofreading and samples"
+  ],
+  "paidServicesOrderedByAgent": [],
+  "extraCreditsPurchasedByAgent": 0,
+  "separatePaidApiCallsForBulkOcr": 0,
+  "scope": "Beskriver agentens projektåtgärder; är inte en granskning av användarens övriga abonnemang eller fakturering"
+}

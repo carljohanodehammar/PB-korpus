@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-B077EA633FFBFD29:p0021",
+  "documentId": "PB-B077EA633FFBFD29",
+  "pdfPage": 21,
+  "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+  "rawTextSha256": "6f5159d6d512a4f1cc58fada17ebb828f237cc7d3037ba817a6d532b2d84e344",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [
+    "34",
+    "35"
+  ],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": "34",
+      "basis": "Synlig sidnumrering i sidbild"
+    },
+    {
+      "segment": 1,
+      "printedPage": "35",
+      "basis": "Synlig sidnumrering i sidbild"
+    }
+  ],
+  "notes": [],
+  "revision": 1,
+  "parentRevision": null,
+  "status": "selected",
+  "segments": [],
+  "passages": [],
+  "unresolved": [],
+  "changeReason": "Registrerat i första granskningsurvalet",
+  "changes": []
+}

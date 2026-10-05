@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "finishedAt": "2026-10-05T20:24:06.817705+00:00",
+  "firstRecordedExtractionAt": "2026-10-05T11:35:07.038538+00:00",
+  "firstRecordedMassExtractionAt": "2026-10-05T13:27:50.863136+00:00",
+  "elapsedSecondsSinceFirstRecordedMassExtraction": 24976,
+  "elapsedSecondsSinceFirstRecordedExtraction": 31740,
+  "preparationAllowanceMinutes": 15,
+  "budgetAccountingSeconds": 32640,
+  "timeAccountingNote": "Tid sedan första sparade grundextraktionen, plus 15 minuters schablon för förberedelser. Schablonen är en uppskattning, inte en loggad starttid. Körtider för överlappande OCR-jobb summeras inte.",
+  "withinTenHours": true,
+  "totals": {
+    "pdfDocuments": 220,
+    "pdfPages": 6629,
+    "rawTextPages": 5158,
+    "searchTextPages": 6136,
+    "processed": 4306,
+    "chosen": 2531,
+    "filled": 978,
+    "lowConfidence": 2147,
+    "remainingWithoutSearchText": 493
+  },
+  "integrity": {
+    "schemaVersion": 1,
+    "checkedAt": "2026-10-05T20:17:33.716626+00:00",
+    "result": "passed",
+    "checks": {
+      "originalFiles": 223,
+      "pdfDocuments": 220,
+      "rawPagesUnchanged": 6629,
+      "ocrPagesWithSourceProvenance": 4306,
+      "editorialRevisionsUnchanged": 20
+    },
+    "scope": "Integritet och proveniens; inget bevis för OCR-korrekthet"
+  },
+  "bellman": {
+    "checkedAt": "2026-10-05T18:18:44.159397+00:00",
+    "status": "passed",
+    "books": 19,
+    "wordTokens": 452030,
+    "sourceSha256": "15a24efaf4de360c3c9980be9737369b022ac7973e396ef6864ec22c6b360300",
+    "checks": [
+      "Varje ord exakt en gång",
+      "Ordtecken och ursprunglig följd oförändrade",
+      "JSON och lokalt laddbar JS identiska",
+      "Originalets kontrollsumma oförändrad"
+    ]
+  },
+  "browser": {
+    "checkedAt": "2026-10-05T20:23:21.985873+00:00",
+    "status": "passed",
+    "scope": "Webbläsartest av den slutliga lokala webbexporten",
+    "results": [
+      {
+        "test": "PDF-korpusens täckning",
+        "documents": 220,
+        "pages": 6629,
+        "searchTextPages": 6136
+      },
+      {
+        "test": "Ny maskinell OCR: minnesfest, Avisa 1952",
+        "hits": 2,
+        "label": "ny maskinell OCR · ej korrekturläst"
+      },
+      {
+        "test": "Korrekturläst: Bacchi giftermål",
+        "hits": 1,
+        "pdfPage": 53,
+        "revision": 2
+      },
+      {
+        "test": "Alla PDF-källor: Bacchi",
+        "hits": 595
+      },
+      {
+        "test": "Bellman: exakt fras Bacchi Orden",
+        "hits": 7
+      },
+      {
+        "test": "Interna filhänvisningar",
+        "result": "all present"
+      }
+    ],
+    "limitations": "Tester verifierar sökfunktion och märkning; de mäter inte OCR-textens korrekthet"
+  },
+  "resources": {
+    "updatedAt": "2026-10-05T17:46:35.160799+00:00",
+    "constraint": "Inga extra kostnader får tillkomma genom agentens åtgärder",
+    "local": [
+      "Poppler PDF extraction and rendering",
+      "Tesseract OCR with local downloaded models",
+      "Checksums, export and browser search"
+    ],
+    "usesAppAI": [
+      "Planning and method choices",
+      "Code generation and changes",
+      "AI-assisted visual proofreading and samples"
+    ],
+    "paidServicesOrderedByAgent": [],
+    "extraCreditsPurchasedByAgent": 0,
+    "separatePaidApiCallsForBulkOcr": 0,
+    "scope": "Beskriver agentens projektåtgärder; är inte en granskning av användarens övriga abonnemang eller fakturering"
+  }
+}

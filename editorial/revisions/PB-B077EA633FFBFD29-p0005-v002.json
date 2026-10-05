@@ -1,0 +1,506 @@
+{
+  "schemaVersion": 1,
+  "pageId": "PB-B077EA633FFBFD29:p0005",
+  "documentId": "PB-B077EA633FFBFD29",
+  "pdfPage": 5,
+  "sourceSha256": "b077ea633ffbfd293786850dba5499c0bcc47e31397d627e583c4ac822f95537",
+  "rawTextSha256": "6f5765eb7bc3c28012894549fcafa499385af6d04a7c90dceb2ff668bc6bbbbf",
+  "createdAt": "2026-10-05T12:17:08.848321+00:00",
+  "reviewer": "Codex; AI-assisterad visuell granskning, en genomgång",
+  "printedPages": [],
+  "pageMap": [
+    {
+      "segment": 0,
+      "printedPage": null,
+      "basis": "Inget tryckt sidnummer synligt; ingen numrering antagen"
+    }
+  ],
+  "notes": [
+    "Årtalet 1778 och tryckformen ”bjerta” återges som på sidbilden. Notmarkeringarna 1–3 har sina förklaringar utanför denna PDF-sida."
+  ],
+  "revision": 2,
+  "parentRevision": 1,
+  "status": "proofread",
+  "segments": [
+    "PARENTATION\nöfver Brodren Commendeuren och Herr Öfver-Directeuren Gottfried Sackenhjelm, hållen af Notarien Hallman 1) mot hösten 1778 2) uti Eklöf’ska huset 3), i hörnet af Drottning- och Fredsgatorne.\n\nORDENSCANTORN (afsjunger, med sorgelig stämma, följande klagosång)\nGottfried vår Bror\nÄr nu döder\nKäre Bröder!\nKläd Er i flor.\nTrampa spåren\nPrässa tåren\nSorgen är nu stor;\nVår Bror han dog i strumpor och skor\nBacchus han gråter vid pannan och sp...!\nFölj hans exempel\nI detta vårt tempel,\nLåt sorgen vinna utbrott, som vårt bjerta så bryr!\nParentateur!\nDu lilla Broder hör!\nTag nu ditt glas och strupen ledig gör\nSom sig bör, Commendeur.\n\nPARENTATORN (dricker, uppstår sedan och uppläser detta företal till parentationen)\nMin blyga skaldemö, du får dig ej fördölja,\nDu måste hopens röst och Ödets lagar följa,"
+  ],
+  "passages": [
+    {
+      "id": "E-H05-SACKENHJELM",
+      "text": "Gottfried Sackenhjelm",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H05-HALLMAN",
+      "text": "hållen af Notarien Hallman",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H05-DATUM",
+      "text": "mot hösten 1778",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H05-CANTOR",
+      "text": "ORDENSCANTORN",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H05-PARENTATION",
+      "text": "PARENTATION",
+      "reviewStatus": "checked-against-image"
+    },
+    {
+      "id": "E-H05-BACCHUS",
+      "text": "Bacchus han gråter vid pannan och sp...!",
+      "reviewStatus": "checked-against-image"
+    }
+  ],
+  "unresolved": [],
+  "changeReason": "Tryckt löptext och noter transkriberade och jämförda med sidbilden; äldre stavning bevarad",
+  "textSha256": "439cbb960f165c3c6ea6d33a853c1b45f8c2909d74c6c789121d714ebf419042",
+  "changes": [
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        0,
+        11
+      ],
+      "editedWordRange": [
+        0,
+        4
+      ],
+      "before": "• • P ARENT ATI o N ! ör.cr Urodl'cn COIUJllcndeall'pn",
+      "after": "PARENTATION öfver Brodren Commendeuren"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        12,
+        16
+      ],
+      "editedWordRange": [
+        5,
+        9
+      ],
+      "before": "lIerr Öfl'er-Dil'ccteurcn Gottfl'ied Sackenhjclm}",
+      "after": "Herr Öfver-Directeuren Gottfried Sackenhjelm,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        19,
+        21
+      ],
+      "editedWordRange": [
+        12,
+        14
+      ],
+      "before": "liaIlIlIan ')",
+      "after": "Hallman 1)"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        24,
+        25
+      ],
+      "editedWordRange": [
+        17,
+        18
+      ],
+      "before": "')",
+      "after": "2)"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        26,
+        27
+      ],
+      "editedWordRange": [
+        19,
+        20
+      ],
+      "before": "Eklöf'ska",
+      "after": "Eklöf’ska"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        32,
+        34
+      ],
+      "editedWordRange": [
+        25,
+        25
+      ],
+      "before": ", I",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        35,
+        39
+      ],
+      "editedWordRange": [
+        26,
+        30
+      ],
+      "before": "oeh Fl'edsgatornc. ORDK\\TSCAN'fOR~ ((if.tjllll!Je,.~",
+      "after": "och Fredsgatorne. ORDENSCANTORN (afsjunger,"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        40,
+        42
+      ],
+      "editedWordRange": [
+        31,
+        32
+      ],
+      "before": "sOl'flefi9 'IJ",
+      "after": "sorgelig"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        43,
+        48
+      ],
+      "editedWordRange": [
+        33,
+        35
+      ],
+      "before": "fö ljande kiago. , å.ng)",
+      "after": "följande klagosång)"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        49,
+        50
+      ],
+      "editedWordRange": [
+        36,
+        37
+      ],
+      "before": "val'",
+      "after": "vår"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        58,
+        59
+      ],
+      "editedWordRange": [
+        45,
+        46
+      ],
+      "before": "I",
+      "after": "i"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        61,
+        62
+      ],
+      "editedWordRange": [
+        48,
+        49
+      ],
+      "before": "spÄren",
+      "after": "spåren"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        63,
+        64
+      ],
+      "editedWordRange": [
+        50,
+        51
+      ],
+      "before": "tären",
+      "after": "tåren"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        68,
+        70
+      ],
+      "editedWordRange": [
+        55,
+        57
+      ],
+      "before": "vär Ural'",
+      "after": "Vår Bror"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        76,
+        77
+      ],
+      "editedWordRange": [
+        63,
+        63
+      ],
+      "before": ",",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        79,
+        80
+      ],
+      "editedWordRange": [
+        65,
+        66
+      ],
+      "before": "g\"3tcr",
+      "after": "gråter"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        83,
+        87
+      ],
+      "editedWordRange": [
+        69,
+        70
+      ],
+      "before": "sp .. ! I",
+      "after": "sp...!"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        91,
+        93
+      ],
+      "editedWordRange": [
+        74,
+        76
+      ],
+      "before": "Idetla vfirt",
+      "after": "detta vårt"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        94,
+        95
+      ],
+      "editedWordRange": [
+        77,
+        78
+      ],
+      "before": "Lat",
+      "after": "Låt"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        99,
+        100
+      ],
+      "editedWordRange": [
+        82,
+        83
+      ],
+      "before": "v§rt",
+      "after": "vårt"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        101,
+        102
+      ],
+      "editedWordRange": [
+        84,
+        85
+      ],
+      "before": "s3",
+      "after": "så"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        103,
+        104
+      ],
+      "editedWordRange": [
+        86,
+        86
+      ],
+      "before": "I",
+      "after": ""
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        105,
+        106
+      ],
+      "editedWordRange": [
+        87,
+        87
+      ],
+      "before": "I",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        109,
+        110
+      ],
+      "editedWordRange": [
+        90,
+        91
+      ],
+      "before": "bör!",
+      "after": "hör!"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        114,
+        115
+      ],
+      "editedWordRange": [
+        95,
+        96
+      ],
+      "before": "ocb",
+      "after": "och"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        118,
+        121
+      ],
+      "editedWordRange": [
+        99,
+        100
+      ],
+      "before": "I So m",
+      "after": "Som"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        125,
+        127
+      ],
+      "editedWordRange": [
+        104,
+        106
+      ],
+      "before": "(dricke,', lIppstth'",
+      "after": "(dricker, uppstår"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        129,
+        130
+      ],
+      "editedWordRange": [
+        108,
+        109
+      ],
+      "before": "upplaser",
+      "after": "uppläser"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        131,
+        132
+      ],
+      "editedWordRange": [
+        110,
+        111
+      ],
+      "before": "foretal",
+      "after": "företal"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        133,
+        136
+      ],
+      "editedWordRange": [
+        112,
+        113
+      ],
+      "before": "l'arentationtn ) j",
+      "after": "parentationen)"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        140,
+        141
+      ],
+      "editedWordRange": [
+        117,
+        118
+      ],
+      "before": "rår",
+      "after": "får"
+    },
+    {
+      "operation": "delete",
+      "rawWordRange": [
+        144,
+        146
+      ],
+      "editedWordRange": [
+        121,
+        121
+      ],
+      "before": "t •",
+      "after": ""
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        147,
+        150
+      ],
+      "editedWordRange": [
+        122,
+        124
+      ],
+      "before": "mllste il oJlens",
+      "after": "måste hopens"
+    },
+    {
+      "operation": "replace",
+      "rawWordRange": [
+        154,
+        156
+      ],
+      "editedWordRange": [
+        128,
+        129
+      ],
+      "before": "rulja, .-",
+      "after": "följa,"
+    }
+  ]
+}
