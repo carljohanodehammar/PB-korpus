@@ -36,10 +36,11 @@
    if(hit.p.quality==='proofread'){const r=hit.p.review,ref=node('a','Läs granskad text och versionshistorik →');ref.href='#review='+encodeURIComponent(r.pageId)+'&v='+r.revision;card.append(node('p',r.printedPages.length?'Tryckta sidor: '+r.printedPages.join(', '):'Ingen synlig tryckt sidnumrering','meta'),ref);}
    if(hit.p.ocrText){const candidate=node('details');candidate.append(node('summary','Läs ny OCR och dess kvalitetsbedömning'),node('p','Maskinens säkerhetsvärde: '+hit.p.machineAssessment.confidence+'/100. Det mäter inte faktisk korrekthet.','meta'),node('pre',hit.p.ocrText,'page-text'));card.append(candidate);}
    if(hit.p.readingText){const revised=node('details');revised.append(node('summary','Läs sidan med granskad läsordning'),node('pre',hit.p.readingText,'page-text'));card.append(revised);}
-   const details=node('details'),summary=node('summary','Läs ursprungligt extraherat textlager'),text=node('pre',hit.p.text,'page-text');details.append(summary,text);card.append(details);return card;
+   const details=node('details'),summary=node('summary','Läs ursprungligt extraherat textlager'),text=node('pre',hit.p.text,'page-text');details.append(summary,text);card.append(details);window.PB_SAVED.attach(card,{id:hit.doc.id+':p'+String(hit.p.pdfPage).padStart(4,'0'),kind:'Korpus',title:hit.doc.title,location:'PDF-sida '+hit.p.pdfPage,query:lastQuery,excerpt:excerpt.textContent,url:a.href});return card;
   }));
   $('text-prev').disabled=page===1;$('text-next').disabled=page===count;$('text-page').textContent=matches.length?`Sida ${page} av ${count}`:'0 resultat';$('text-pagination').hidden=!matches.length;
  }
+ $('text-clear').addEventListener('click',()=>{++seq;matches=[];page=1;lastTerms=[];lastQuery='';$('text-form').reset();$('text-results').replaceChildren();$('text-pagination').hidden=true;$('text-search').disabled=false;$('text-status').textContent='Sökningen är rensad. Skriv ett nytt ord eller namn.';$('text-query').focus();});
  $('text-form').addEventListener('submit',async event=>{
   event.preventDefault();const query=$('text-query').value.trim();if(!query){$('text-status').textContent='Skriv ett ord eller en fras att söka efter.';return;}
   const token=++seq;const phrase=$('text-mode').value==='phrase';const terms=phrase?[norm(clean(query))]:norm(clean(query)).split(' ').filter(Boolean), chosen=pilot.documents.filter(d=>(!$('text-source').value||d.id===$('text-source').value)&&($('text-quality').value!=='proofread'||reviewedDocuments.has(d.id))&&($('text-quality').value!=='machine'||d.selectedOcrPages>0));
