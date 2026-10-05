@@ -9,3 +9,27 @@
 
 /* Consistent controls in Safari while preserving native keyboard and touch menus. */
 select{appearance:none;-webkit-appearance:none;border-radius:6px;padding:10px 38px 10px 12px;background-color:var(--white);background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath d='m4 6 4 4 4-4' fill='none' stroke='%23753b42' stroke-width='1.5'/%3E%3C/svg%3E");background-position:right 12px center;background-repeat:no-repeat;line-height:1.4;min-width:140px}input,button{border-radius:6px}nav{gap:12px 20px}.masthead{gap:25px}.filters{border-radius:8px}.filters button[type=submit]{background:var(--accent);border-color:var(--accent);color:white}.page-text{max-height:none;overflow:visible;white-space:pre-wrap;font-family:inherit;font-size:15px;line-height:1.8;border-radius:6px}.save-hit{float:right;margin:0 0 14px 16px;color:var(--accent);background:var(--paper);font-size:13px}.text-hit::after{content:'';display:block;clear:both}.person-card{text-align:left;padding:20px;background:var(--white);border-color:var(--line);min-height:115px}.person-card strong{display:block;font:26px Georgia,serif;margin-bottom:10px}.person-card span{display:block;font-size:12px;color:var(--muted)}.person-card:hover{border-color:var(--accent);background:#eee7db}.people-filter{display:flex;flex-direction:column;gap:8px;max-width:400px;font-size:13px}#save-notice{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);width:max-content;max-width:calc(100% - 32px);background:var(--ink);color:white;padding:12px 20px;border-radius:8px;box-shadow:0 4px 20px #0002;z-index:10;pointer-events:none;font-size:14px}#save-notice:empty{display:none}@media(max-width:760px){select{width:100%}.save-hit{float:none;margin:0 0 16px}.masthead nav{gap:10px 16px}}
+
+/* Readable disclosure controls on source-text cards. */
+.text-hit details{margin-top:12px;font-size:15px}
+.text-hit summary{position:relative;display:block;list-style:none;padding:13px 42px 13px 16px;border:1px solid var(--line);border-radius:7px;background:var(--paper);color:var(--ink);font-size:16px;font-weight:500;line-height:1.5;min-height:50px;transition:background .15s,border-color .15s}
+.text-hit summary::-webkit-details-marker{display:none}
+.text-hit summary::after{content:"";position:absolute;right:18px;top:19px;width:8px;height:8px;border-right:2px solid var(--accent);border-bottom:2px solid var(--accent);transform:rotate(45deg)}
+.text-hit details[open]>summary::after{top:23px;transform:rotate(225deg)}
+.text-hit summary:hover{background:#eee7db;border-color:#b8a68b}
+.text-hit details[open]>summary{border-color:#b8a68b}
+.text-hit details>.page-text{margin:12px 0 0}
+@media(prefers-reduced-motion:reduce){.text-hit summary{transition:none}}
+
+/* Keep search actions together and let fields adapt to the available width. */
+#text-form,#bellman-form{display:grid;grid-template-columns:minmax(180px,1.25fr) minmax(170px,1fr) minmax(165px,.8fr) auto;align-items:end;gap:12px}
+#text-form label,#bellman-form label,#text-form label.search,#bellman-form label.search{min-width:0;max-width:none;width:100%}
+#text-form input,#bellman-form input,#text-form select,#bellman-form select{width:100%;min-width:0;max-width:100%}
+.search-buttons{display:flex;gap:10px;align-items:center}.search-buttons button{white-space:nowrap}
+@media(max-width:1050px){#text-form,#bellman-form{grid-template-columns:repeat(2,minmax(0,1fr))}.search-buttons{justify-content:flex-end}}
+@media(max-width:600px){#text-form,#bellman-form{grid-template-columns:minmax(0,1fr)}.search-buttons{justify-content:stretch}.search-buttons button{flex:1;padding-left:10px;padding-right:10px}}
+
+/* KORPBUS wordmark. */
+.brand{display:inline-block;flex-shrink:0;font-family:Georgia,'Times New Roman',serif;font-size:34px;font-style:italic;font-weight:600;letter-spacing:.035em;line-height:1.15;color:var(--accent);padding:6px 2px 9px;border-bottom:2px solid #753b4233;text-decoration:none}
+.brand:hover{border-bottom-color:var(--accent)}
+@media(max-width:760px){.brand{font-size:31px}}
